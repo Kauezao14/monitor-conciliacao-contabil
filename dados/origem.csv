@@ -1,0 +1,541 @@
+empresa,id_evento,sistema,lote,competencia,polo,tipo_evento,valor_centavos,conta_esperada,centro_esperado,data_evento
+EDU01,2026-07-Aca-001,Acadêmico,2026-07-Acadêmico,2026-07,Londrina,Reconhecimento de mensalidade,89900,4.1.01 Receita de serviços,CC-LDA,2026-07-15
+EDU01,2026-07-Aca-002,Acadêmico,2026-07-Acadêmico,2026-07,Curitiba,Reconhecimento de mensalidade,49900,4.1.01 Receita de serviços,CC-CTB,2026-07-15
+EDU01,2026-07-Aca-003,Acadêmico,2026-07-Acadêmico,2026-07,Maringá,Reconhecimento de mensalidade,49900,4.1.01 Receita de serviços,CC-MGA,2026-07-15
+EDU01,2026-07-Aca-004,Acadêmico,2026-07-Acadêmico,2026-07,Londrina,Reconhecimento de mensalidade,89900,4.1.01 Receita de serviços,CC-LDA,2026-07-15
+EDU01,2026-07-Aca-005,Acadêmico,2026-07-Acadêmico,2026-07,Curitiba,Reconhecimento de mensalidade,64900,4.1.01 Receita de serviços,CC-CTB,2026-07-15
+EDU01,2026-07-Aca-006,Acadêmico,2026-07-Acadêmico,2026-07,Maringá,Reconhecimento de mensalidade,49900,4.1.01 Receita de serviços,CC-MGA,2026-07-15
+EDU01,2026-07-Aca-007,Acadêmico,2026-07-Acadêmico,2026-07,Londrina,Reconhecimento de mensalidade,49900,4.1.01 Receita de serviços,CC-LDA,2026-07-15
+EDU01,2026-07-Aca-008,Acadêmico,2026-07-Acadêmico,2026-07,Curitiba,Reconhecimento de mensalidade,49900,4.1.01 Receita de serviços,CC-CTB,2026-07-15
+EDU01,2026-07-Aca-009,Acadêmico,2026-07-Acadêmico,2026-07,Maringá,Reconhecimento de mensalidade,89900,4.1.01 Receita de serviços,CC-MGA,2026-07-15
+EDU01,2026-07-Aca-010,Acadêmico,2026-07-Acadêmico,2026-07,Londrina,Reconhecimento de mensalidade,49900,4.1.01 Receita de serviços,CC-LDA,2026-07-15
+EDU01,2026-07-Aca-011,Acadêmico,2026-07-Acadêmico,2026-07,Curitiba,Reconhecimento de mensalidade,89900,4.1.01 Receita de serviços,CC-CTB,2026-07-15
+EDU01,2026-07-Aca-012,Acadêmico,2026-07-Acadêmico,2026-07,Maringá,Reconhecimento de mensalidade,89900,4.1.01 Receita de serviços,CC-MGA,2026-07-15
+EDU01,2026-07-Aca-013,Acadêmico,2026-07-Acadêmico,2026-07,Londrina,Reconhecimento de mensalidade,89900,4.1.01 Receita de serviços,CC-LDA,2026-07-15
+EDU01,2026-07-Aca-014,Acadêmico,2026-07-Acadêmico,2026-07,Curitiba,Reconhecimento de mensalidade,49900,4.1.01 Receita de serviços,CC-CTB,2026-07-15
+EDU01,2026-07-Aca-015,Acadêmico,2026-07-Acadêmico,2026-07,Maringá,Reconhecimento de mensalidade,89900,4.1.01 Receita de serviços,CC-MGA,2026-07-15
+EDU01,2026-07-Aca-016,Acadêmico,2026-07-Acadêmico,2026-07,Londrina,Reconhecimento de mensalidade,64900,4.1.01 Receita de serviços,CC-LDA,2026-07-15
+EDU01,2026-07-Aca-017,Acadêmico,2026-07-Acadêmico,2026-07,Curitiba,Reconhecimento de mensalidade,49900,4.1.01 Receita de serviços,CC-CTB,2026-07-15
+EDU01,2026-07-Aca-018,Acadêmico,2026-07-Acadêmico,2026-07,Maringá,Reconhecimento de mensalidade,49900,4.1.01 Receita de serviços,CC-MGA,2026-07-15
+EDU01,2026-07-Aca-019,Acadêmico,2026-07-Acadêmico,2026-07,Londrina,Reconhecimento de mensalidade,49900,4.1.01 Receita de serviços,CC-LDA,2026-07-15
+EDU01,2026-07-Aca-020,Acadêmico,2026-07-Acadêmico,2026-07,Curitiba,Reconhecimento de mensalidade,49900,4.1.01 Receita de serviços,CC-CTB,2026-07-15
+EDU01,2026-07-Aca-021,Acadêmico,2026-07-Acadêmico,2026-07,Maringá,Reconhecimento de mensalidade,49900,4.1.01 Receita de serviços,CC-MGA,2026-07-15
+EDU01,2026-07-Aca-022,Acadêmico,2026-07-Acadêmico,2026-07,Londrina,Reconhecimento de mensalidade,89900,4.1.01 Receita de serviços,CC-LDA,2026-07-15
+EDU01,2026-07-Aca-023,Acadêmico,2026-07-Acadêmico,2026-07,Curitiba,Reconhecimento de mensalidade,89900,4.1.01 Receita de serviços,CC-CTB,2026-07-15
+EDU01,2026-07-Aca-024,Acadêmico,2026-07-Acadêmico,2026-07,Maringá,Reconhecimento de mensalidade,49900,4.1.01 Receita de serviços,CC-MGA,2026-07-15
+EDU01,2026-07-Aca-025,Acadêmico,2026-07-Acadêmico,2026-07,Londrina,Reconhecimento de mensalidade,89900,4.1.01 Receita de serviços,CC-LDA,2026-07-15
+EDU01,2026-07-Aca-026,Acadêmico,2026-07-Acadêmico,2026-07,Curitiba,Reconhecimento de mensalidade,49900,4.1.01 Receita de serviços,CC-CTB,2026-07-15
+EDU01,2026-07-Aca-027,Acadêmico,2026-07-Acadêmico,2026-07,Maringá,Reconhecimento de mensalidade,89900,4.1.01 Receita de serviços,CC-MGA,2026-07-15
+EDU01,2026-07-Aca-028,Acadêmico,2026-07-Acadêmico,2026-07,Londrina,Reconhecimento de mensalidade,89900,4.1.01 Receita de serviços,CC-LDA,2026-07-15
+EDU01,2026-07-Aca-029,Acadêmico,2026-07-Acadêmico,2026-07,Curitiba,Reconhecimento de mensalidade,89900,4.1.01 Receita de serviços,CC-CTB,2026-07-15
+EDU01,2026-07-Aca-030,Acadêmico,2026-07-Acadêmico,2026-07,Maringá,Reconhecimento de mensalidade,89900,4.1.01 Receita de serviços,CC-MGA,2026-07-15
+EDU01,2026-07-Aca-031,Acadêmico,2026-07-Acadêmico,2026-07,Londrina,Reconhecimento de mensalidade,64900,4.1.01 Receita de serviços,CC-LDA,2026-07-15
+EDU01,2026-07-Aca-032,Acadêmico,2026-07-Acadêmico,2026-07,Curitiba,Reconhecimento de mensalidade,49900,4.1.01 Receita de serviços,CC-CTB,2026-07-15
+EDU01,2026-07-Aca-033,Acadêmico,2026-07-Acadêmico,2026-07,Maringá,Reconhecimento de mensalidade,64900,4.1.01 Receita de serviços,CC-MGA,2026-07-15
+EDU01,2026-07-Aca-034,Acadêmico,2026-07-Acadêmico,2026-07,Londrina,Reconhecimento de mensalidade,89900,4.1.01 Receita de serviços,CC-LDA,2026-07-15
+EDU01,2026-07-Aca-035,Acadêmico,2026-07-Acadêmico,2026-07,Curitiba,Reconhecimento de mensalidade,64900,4.1.01 Receita de serviços,CC-CTB,2026-07-15
+EDU01,2026-07-Aca-036,Acadêmico,2026-07-Acadêmico,2026-07,Maringá,Reconhecimento de mensalidade,49900,4.1.01 Receita de serviços,CC-MGA,2026-07-15
+EDU01,2026-07-Aca-037,Acadêmico,2026-07-Acadêmico,2026-07,Londrina,Reconhecimento de mensalidade,49900,4.1.01 Receita de serviços,CC-LDA,2026-07-15
+EDU01,2026-07-Aca-038,Acadêmico,2026-07-Acadêmico,2026-07,Curitiba,Reconhecimento de mensalidade,89900,4.1.01 Receita de serviços,CC-CTB,2026-07-15
+EDU01,2026-07-Aca-039,Acadêmico,2026-07-Acadêmico,2026-07,Maringá,Reconhecimento de mensalidade,64900,4.1.01 Receita de serviços,CC-MGA,2026-07-15
+EDU01,2026-07-Aca-040,Acadêmico,2026-07-Acadêmico,2026-07,Londrina,Reconhecimento de mensalidade,64900,4.1.01 Receita de serviços,CC-LDA,2026-07-15
+EDU01,2026-07-Aca-041,Acadêmico,2026-07-Acadêmico,2026-07,Curitiba,Reconhecimento de mensalidade,64900,4.1.01 Receita de serviços,CC-CTB,2026-07-15
+EDU01,2026-07-Aca-042,Acadêmico,2026-07-Acadêmico,2026-07,Maringá,Reconhecimento de mensalidade,49900,4.1.01 Receita de serviços,CC-MGA,2026-07-15
+EDU01,2026-07-Aca-043,Acadêmico,2026-07-Acadêmico,2026-07,Londrina,Reconhecimento de mensalidade,49900,4.1.01 Receita de serviços,CC-LDA,2026-07-15
+EDU01,2026-07-Aca-044,Acadêmico,2026-07-Acadêmico,2026-07,Curitiba,Reconhecimento de mensalidade,64900,4.1.01 Receita de serviços,CC-CTB,2026-07-15
+EDU01,2026-07-Aca-045,Acadêmico,2026-07-Acadêmico,2026-07,Maringá,Reconhecimento de mensalidade,49900,4.1.01 Receita de serviços,CC-MGA,2026-07-15
+EDU01,2026-07-Aca-046,Acadêmico,2026-07-Acadêmico,2026-07,Londrina,Reconhecimento de mensalidade,49900,4.1.01 Receita de serviços,CC-LDA,2026-07-15
+EDU01,2026-07-Aca-047,Acadêmico,2026-07-Acadêmico,2026-07,Curitiba,Reconhecimento de mensalidade,64900,4.1.01 Receita de serviços,CC-CTB,2026-07-15
+EDU01,2026-07-Aca-048,Acadêmico,2026-07-Acadêmico,2026-07,Maringá,Reconhecimento de mensalidade,49900,4.1.01 Receita de serviços,CC-MGA,2026-07-15
+EDU01,2026-07-Aca-049,Acadêmico,2026-07-Acadêmico,2026-07,Londrina,Reconhecimento de mensalidade,64900,4.1.01 Receita de serviços,CC-LDA,2026-07-15
+EDU01,2026-07-Aca-050,Acadêmico,2026-07-Acadêmico,2026-07,Curitiba,Reconhecimento de mensalidade,64900,4.1.01 Receita de serviços,CC-CTB,2026-07-15
+EDU01,2026-07-Aca-051,Acadêmico,2026-07-Acadêmico,2026-07,Maringá,Reconhecimento de mensalidade,89900,4.1.01 Receita de serviços,CC-MGA,2026-07-15
+EDU01,2026-07-Aca-052,Acadêmico,2026-07-Acadêmico,2026-07,Londrina,Reconhecimento de mensalidade,64900,4.1.01 Receita de serviços,CC-LDA,2026-07-15
+EDU01,2026-07-Aca-053,Acadêmico,2026-07-Acadêmico,2026-07,Curitiba,Reconhecimento de mensalidade,49900,4.1.01 Receita de serviços,CC-CTB,2026-07-15
+EDU01,2026-07-Aca-054,Acadêmico,2026-07-Acadêmico,2026-07,Maringá,Reconhecimento de mensalidade,89900,4.1.01 Receita de serviços,CC-MGA,2026-07-15
+EDU01,2026-07-Aca-055,Acadêmico,2026-07-Acadêmico,2026-07,Londrina,Reconhecimento de mensalidade,64900,4.1.01 Receita de serviços,CC-LDA,2026-07-15
+EDU01,2026-07-Aca-056,Acadêmico,2026-07-Acadêmico,2026-07,Curitiba,Reconhecimento de mensalidade,89900,4.1.01 Receita de serviços,CC-CTB,2026-07-15
+EDU01,2026-07-Aca-057,Acadêmico,2026-07-Acadêmico,2026-07,Maringá,Reconhecimento de mensalidade,49900,4.1.01 Receita de serviços,CC-MGA,2026-07-15
+EDU01,2026-07-Aca-058,Acadêmico,2026-07-Acadêmico,2026-07,Londrina,Reconhecimento de mensalidade,64900,4.1.01 Receita de serviços,CC-LDA,2026-07-15
+EDU01,2026-07-Aca-059,Acadêmico,2026-07-Acadêmico,2026-07,Curitiba,Reconhecimento de mensalidade,49900,4.1.01 Receita de serviços,CC-CTB,2026-07-15
+EDU01,2026-07-Aca-060,Acadêmico,2026-07-Acadêmico,2026-07,Maringá,Reconhecimento de mensalidade,89900,4.1.01 Receita de serviços,CC-MGA,2026-07-15
+EDU01,2026-07-Fin-001,Financeiro,2026-07-Financeiro,2026-07,Londrina,Recebimento de cliente,64900,1.1.01 Bancos,CC-LDA,2026-07-15
+EDU01,2026-07-Fin-002,Financeiro,2026-07-Financeiro,2026-07,Curitiba,Recebimento de cliente,89900,1.1.01 Bancos,CC-CTB,2026-07-15
+EDU01,2026-07-Fin-003,Financeiro,2026-07-Financeiro,2026-07,Maringá,Recebimento de cliente,89900,1.1.01 Bancos,CC-MGA,2026-07-15
+EDU01,2026-07-Fin-004,Financeiro,2026-07-Financeiro,2026-07,Londrina,Recebimento de cliente,64900,1.1.01 Bancos,CC-LDA,2026-07-15
+EDU01,2026-07-Fin-005,Financeiro,2026-07-Financeiro,2026-07,Curitiba,Recebimento de cliente,89900,1.1.01 Bancos,CC-CTB,2026-07-15
+EDU01,2026-07-Fin-006,Financeiro,2026-07-Financeiro,2026-07,Maringá,Recebimento de cliente,49900,1.1.01 Bancos,CC-MGA,2026-07-15
+EDU01,2026-07-Fin-007,Financeiro,2026-07-Financeiro,2026-07,Londrina,Recebimento de cliente,89900,1.1.01 Bancos,CC-LDA,2026-07-15
+EDU01,2026-07-Fin-008,Financeiro,2026-07-Financeiro,2026-07,Curitiba,Recebimento de cliente,49900,1.1.01 Bancos,CC-CTB,2026-07-15
+EDU01,2026-07-Fin-009,Financeiro,2026-07-Financeiro,2026-07,Maringá,Recebimento de cliente,49900,1.1.01 Bancos,CC-MGA,2026-07-15
+EDU01,2026-07-Fin-010,Financeiro,2026-07-Financeiro,2026-07,Londrina,Recebimento de cliente,89900,1.1.01 Bancos,CC-LDA,2026-07-15
+EDU01,2026-07-Fin-011,Financeiro,2026-07-Financeiro,2026-07,Curitiba,Recebimento de cliente,49900,1.1.01 Bancos,CC-CTB,2026-07-15
+EDU01,2026-07-Fin-012,Financeiro,2026-07-Financeiro,2026-07,Maringá,Recebimento de cliente,64900,1.1.01 Bancos,CC-MGA,2026-07-15
+EDU01,2026-07-Fin-013,Financeiro,2026-07-Financeiro,2026-07,Londrina,Recebimento de cliente,49900,1.1.01 Bancos,CC-LDA,2026-07-15
+EDU01,2026-07-Fin-014,Financeiro,2026-07-Financeiro,2026-07,Curitiba,Recebimento de cliente,49900,1.1.01 Bancos,CC-CTB,2026-07-15
+EDU01,2026-07-Fin-015,Financeiro,2026-07-Financeiro,2026-07,Maringá,Recebimento de cliente,49900,1.1.01 Bancos,CC-MGA,2026-07-15
+EDU01,2026-07-Fin-016,Financeiro,2026-07-Financeiro,2026-07,Londrina,Recebimento de cliente,64900,1.1.01 Bancos,CC-LDA,2026-07-15
+EDU01,2026-07-Fin-017,Financeiro,2026-07-Financeiro,2026-07,Curitiba,Recebimento de cliente,64900,1.1.01 Bancos,CC-CTB,2026-07-15
+EDU01,2026-07-Fin-018,Financeiro,2026-07-Financeiro,2026-07,Maringá,Recebimento de cliente,64900,1.1.01 Bancos,CC-MGA,2026-07-15
+EDU01,2026-07-Fin-019,Financeiro,2026-07-Financeiro,2026-07,Londrina,Recebimento de cliente,89900,1.1.01 Bancos,CC-LDA,2026-07-15
+EDU01,2026-07-Fin-020,Financeiro,2026-07-Financeiro,2026-07,Curitiba,Recebimento de cliente,64900,1.1.01 Bancos,CC-CTB,2026-07-15
+EDU01,2026-07-Fin-021,Financeiro,2026-07-Financeiro,2026-07,Maringá,Recebimento de cliente,49900,1.1.01 Bancos,CC-MGA,2026-07-15
+EDU01,2026-07-Fin-022,Financeiro,2026-07-Financeiro,2026-07,Londrina,Recebimento de cliente,64900,1.1.01 Bancos,CC-LDA,2026-07-15
+EDU01,2026-07-Fin-023,Financeiro,2026-07-Financeiro,2026-07,Curitiba,Recebimento de cliente,64900,1.1.01 Bancos,CC-CTB,2026-07-15
+EDU01,2026-07-Fin-024,Financeiro,2026-07-Financeiro,2026-07,Maringá,Recebimento de cliente,49900,1.1.01 Bancos,CC-MGA,2026-07-15
+EDU01,2026-07-Fin-025,Financeiro,2026-07-Financeiro,2026-07,Londrina,Recebimento de cliente,89900,1.1.01 Bancos,CC-LDA,2026-07-15
+EDU01,2026-07-Fin-026,Financeiro,2026-07-Financeiro,2026-07,Curitiba,Recebimento de cliente,64900,1.1.01 Bancos,CC-CTB,2026-07-15
+EDU01,2026-07-Fin-027,Financeiro,2026-07-Financeiro,2026-07,Maringá,Recebimento de cliente,89900,1.1.01 Bancos,CC-MGA,2026-07-15
+EDU01,2026-07-Fin-028,Financeiro,2026-07-Financeiro,2026-07,Londrina,Recebimento de cliente,89900,1.1.01 Bancos,CC-LDA,2026-07-15
+EDU01,2026-07-Fin-029,Financeiro,2026-07-Financeiro,2026-07,Curitiba,Recebimento de cliente,89900,1.1.01 Bancos,CC-CTB,2026-07-15
+EDU01,2026-07-Fin-030,Financeiro,2026-07-Financeiro,2026-07,Maringá,Recebimento de cliente,49900,1.1.01 Bancos,CC-MGA,2026-07-15
+EDU01,2026-07-Fin-031,Financeiro,2026-07-Financeiro,2026-07,Londrina,Recebimento de cliente,89900,1.1.01 Bancos,CC-LDA,2026-07-15
+EDU01,2026-07-Fin-032,Financeiro,2026-07-Financeiro,2026-07,Curitiba,Recebimento de cliente,89900,1.1.01 Bancos,CC-CTB,2026-07-15
+EDU01,2026-07-Fin-033,Financeiro,2026-07-Financeiro,2026-07,Maringá,Recebimento de cliente,49900,1.1.01 Bancos,CC-MGA,2026-07-15
+EDU01,2026-07-Fin-034,Financeiro,2026-07-Financeiro,2026-07,Londrina,Recebimento de cliente,89900,1.1.01 Bancos,CC-LDA,2026-07-15
+EDU01,2026-07-Fin-035,Financeiro,2026-07-Financeiro,2026-07,Curitiba,Recebimento de cliente,89900,1.1.01 Bancos,CC-CTB,2026-07-15
+EDU01,2026-07-Fin-036,Financeiro,2026-07-Financeiro,2026-07,Maringá,Recebimento de cliente,49900,1.1.01 Bancos,CC-MGA,2026-07-15
+EDU01,2026-07-Fin-037,Financeiro,2026-07-Financeiro,2026-07,Londrina,Recebimento de cliente,49900,1.1.01 Bancos,CC-LDA,2026-07-15
+EDU01,2026-07-Fin-038,Financeiro,2026-07-Financeiro,2026-07,Curitiba,Recebimento de cliente,64900,1.1.01 Bancos,CC-CTB,2026-07-15
+EDU01,2026-07-Fin-039,Financeiro,2026-07-Financeiro,2026-07,Maringá,Recebimento de cliente,64900,1.1.01 Bancos,CC-MGA,2026-07-15
+EDU01,2026-07-Fin-040,Financeiro,2026-07-Financeiro,2026-07,Londrina,Recebimento de cliente,64900,1.1.01 Bancos,CC-LDA,2026-07-15
+EDU01,2026-07-Fin-041,Financeiro,2026-07-Financeiro,2026-07,Curitiba,Recebimento de cliente,89900,1.1.01 Bancos,CC-CTB,2026-07-15
+EDU01,2026-07-Fin-042,Financeiro,2026-07-Financeiro,2026-07,Maringá,Recebimento de cliente,89900,1.1.01 Bancos,CC-MGA,2026-07-15
+EDU01,2026-07-Fin-043,Financeiro,2026-07-Financeiro,2026-07,Londrina,Recebimento de cliente,89900,1.1.01 Bancos,CC-LDA,2026-07-15
+EDU01,2026-07-Fin-044,Financeiro,2026-07-Financeiro,2026-07,Curitiba,Recebimento de cliente,49900,1.1.01 Bancos,CC-CTB,2026-07-15
+EDU01,2026-07-Fin-045,Financeiro,2026-07-Financeiro,2026-07,Maringá,Recebimento de cliente,89900,1.1.01 Bancos,CC-MGA,2026-07-15
+EDU01,2026-07-Fin-046,Financeiro,2026-07-Financeiro,2026-07,Londrina,Recebimento de cliente,64900,1.1.01 Bancos,CC-LDA,2026-07-15
+EDU01,2026-07-Fin-047,Financeiro,2026-07-Financeiro,2026-07,Curitiba,Recebimento de cliente,49900,1.1.01 Bancos,CC-CTB,2026-07-15
+EDU01,2026-07-Fin-048,Financeiro,2026-07-Financeiro,2026-07,Maringá,Recebimento de cliente,49900,1.1.01 Bancos,CC-MGA,2026-07-15
+EDU01,2026-07-Fin-049,Financeiro,2026-07-Financeiro,2026-07,Londrina,Recebimento de cliente,49900,1.1.01 Bancos,CC-LDA,2026-07-15
+EDU01,2026-07-Fin-050,Financeiro,2026-07-Financeiro,2026-07,Curitiba,Recebimento de cliente,64900,1.1.01 Bancos,CC-CTB,2026-07-15
+EDU01,2026-07-Fin-051,Financeiro,2026-07-Financeiro,2026-07,Maringá,Recebimento de cliente,64900,1.1.01 Bancos,CC-MGA,2026-07-15
+EDU01,2026-07-Fin-052,Financeiro,2026-07-Financeiro,2026-07,Londrina,Recebimento de cliente,64900,1.1.01 Bancos,CC-LDA,2026-07-15
+EDU01,2026-07-Fin-053,Financeiro,2026-07-Financeiro,2026-07,Curitiba,Recebimento de cliente,49900,1.1.01 Bancos,CC-CTB,2026-07-15
+EDU01,2026-07-Fin-054,Financeiro,2026-07-Financeiro,2026-07,Maringá,Recebimento de cliente,49900,1.1.01 Bancos,CC-MGA,2026-07-15
+EDU01,2026-07-Fin-055,Financeiro,2026-07-Financeiro,2026-07,Londrina,Recebimento de cliente,89900,1.1.01 Bancos,CC-LDA,2026-07-15
+EDU01,2026-07-Fin-056,Financeiro,2026-07-Financeiro,2026-07,Curitiba,Recebimento de cliente,89900,1.1.01 Bancos,CC-CTB,2026-07-15
+EDU01,2026-07-Fin-057,Financeiro,2026-07-Financeiro,2026-07,Maringá,Recebimento de cliente,64900,1.1.01 Bancos,CC-MGA,2026-07-15
+EDU01,2026-07-Fin-058,Financeiro,2026-07-Financeiro,2026-07,Londrina,Recebimento de cliente,49900,1.1.01 Bancos,CC-LDA,2026-07-15
+EDU01,2026-07-Fin-059,Financeiro,2026-07-Financeiro,2026-07,Curitiba,Recebimento de cliente,89900,1.1.01 Bancos,CC-CTB,2026-07-15
+EDU01,2026-07-Fin-060,Financeiro,2026-07-Financeiro,2026-07,Maringá,Recebimento de cliente,64900,1.1.01 Bancos,CC-MGA,2026-07-15
+EDU01,2026-07-Fol-001,Folha,2026-07-Folha,2026-07,Londrina,Apropriação de salários,480000,5.1.01 Salários,CC-LDA,2026-07-15
+EDU01,2026-07-Fol-002,Folha,2026-07-Folha,2026-07,Curitiba,Apropriação de salários,620000,5.1.01 Salários,CC-CTB,2026-07-15
+EDU01,2026-07-Fol-003,Folha,2026-07-Folha,2026-07,Maringá,Apropriação de salários,480000,5.1.01 Salários,CC-MGA,2026-07-15
+EDU01,2026-07-Fol-004,Folha,2026-07-Folha,2026-07,Londrina,Apropriação de salários,350000,5.1.01 Salários,CC-LDA,2026-07-15
+EDU01,2026-07-Fol-005,Folha,2026-07-Folha,2026-07,Curitiba,Apropriação de salários,480000,5.1.01 Salários,CC-CTB,2026-07-15
+EDU01,2026-07-Fol-006,Folha,2026-07-Folha,2026-07,Maringá,Apropriação de salários,350000,5.1.01 Salários,CC-MGA,2026-07-15
+EDU01,2026-07-Fol-007,Folha,2026-07-Folha,2026-07,Londrina,Apropriação de salários,350000,5.1.01 Salários,CC-LDA,2026-07-15
+EDU01,2026-07-Fol-008,Folha,2026-07-Folha,2026-07,Curitiba,Apropriação de salários,620000,5.1.01 Salários,CC-CTB,2026-07-15
+EDU01,2026-07-Fol-009,Folha,2026-07-Folha,2026-07,Maringá,Apropriação de salários,620000,5.1.01 Salários,CC-MGA,2026-07-15
+EDU01,2026-07-Fol-010,Folha,2026-07-Folha,2026-07,Londrina,Apropriação de salários,620000,5.1.01 Salários,CC-LDA,2026-07-15
+EDU01,2026-07-Fol-011,Folha,2026-07-Folha,2026-07,Curitiba,Apropriação de salários,480000,5.1.01 Salários,CC-CTB,2026-07-15
+EDU01,2026-07-Fol-012,Folha,2026-07-Folha,2026-07,Maringá,Apropriação de salários,620000,5.1.01 Salários,CC-MGA,2026-07-15
+EDU01,2026-07-Fol-013,Folha,2026-07-Folha,2026-07,Londrina,Apropriação de salários,620000,5.1.01 Salários,CC-LDA,2026-07-15
+EDU01,2026-07-Fol-014,Folha,2026-07-Folha,2026-07,Curitiba,Apropriação de salários,480000,5.1.01 Salários,CC-CTB,2026-07-15
+EDU01,2026-07-Fol-015,Folha,2026-07-Folha,2026-07,Maringá,Apropriação de salários,620000,5.1.01 Salários,CC-MGA,2026-07-15
+EDU01,2026-07-Fol-016,Folha,2026-07-Folha,2026-07,Londrina,Apropriação de salários,480000,5.1.01 Salários,CC-LDA,2026-07-15
+EDU01,2026-07-Fol-017,Folha,2026-07-Folha,2026-07,Curitiba,Apropriação de salários,480000,5.1.01 Salários,CC-CTB,2026-07-15
+EDU01,2026-07-Fol-018,Folha,2026-07-Folha,2026-07,Maringá,Apropriação de salários,350000,5.1.01 Salários,CC-MGA,2026-07-15
+EDU01,2026-07-Fol-019,Folha,2026-07-Folha,2026-07,Londrina,Apropriação de salários,350000,5.1.01 Salários,CC-LDA,2026-07-15
+EDU01,2026-07-Fol-020,Folha,2026-07-Folha,2026-07,Curitiba,Apropriação de salários,620000,5.1.01 Salários,CC-CTB,2026-07-15
+EDU01,2026-07-Fol-021,Folha,2026-07-Folha,2026-07,Maringá,Apropriação de salários,480000,5.1.01 Salários,CC-MGA,2026-07-15
+EDU01,2026-07-Fol-022,Folha,2026-07-Folha,2026-07,Londrina,Apropriação de salários,350000,5.1.01 Salários,CC-LDA,2026-07-15
+EDU01,2026-07-Fol-023,Folha,2026-07-Folha,2026-07,Curitiba,Apropriação de salários,350000,5.1.01 Salários,CC-CTB,2026-07-15
+EDU01,2026-07-Fol-024,Folha,2026-07-Folha,2026-07,Maringá,Apropriação de salários,350000,5.1.01 Salários,CC-MGA,2026-07-15
+EDU01,2026-07-Fol-025,Folha,2026-07-Folha,2026-07,Londrina,Apropriação de salários,350000,5.1.01 Salários,CC-LDA,2026-07-15
+EDU01,2026-07-Fol-026,Folha,2026-07-Folha,2026-07,Curitiba,Apropriação de salários,620000,5.1.01 Salários,CC-CTB,2026-07-15
+EDU01,2026-07-Fol-027,Folha,2026-07-Folha,2026-07,Maringá,Apropriação de salários,350000,5.1.01 Salários,CC-MGA,2026-07-15
+EDU01,2026-07-Fol-028,Folha,2026-07-Folha,2026-07,Londrina,Apropriação de salários,620000,5.1.01 Salários,CC-LDA,2026-07-15
+EDU01,2026-07-Fol-029,Folha,2026-07-Folha,2026-07,Curitiba,Apropriação de salários,480000,5.1.01 Salários,CC-CTB,2026-07-15
+EDU01,2026-07-Fol-030,Folha,2026-07-Folha,2026-07,Maringá,Apropriação de salários,620000,5.1.01 Salários,CC-MGA,2026-07-15
+EDU01,2026-07-Fol-031,Folha,2026-07-Folha,2026-07,Londrina,Apropriação de salários,350000,5.1.01 Salários,CC-LDA,2026-07-15
+EDU01,2026-07-Fol-032,Folha,2026-07-Folha,2026-07,Curitiba,Apropriação de salários,480000,5.1.01 Salários,CC-CTB,2026-07-15
+EDU01,2026-07-Fol-033,Folha,2026-07-Folha,2026-07,Maringá,Apropriação de salários,480000,5.1.01 Salários,CC-MGA,2026-07-15
+EDU01,2026-07-Fol-034,Folha,2026-07-Folha,2026-07,Londrina,Apropriação de salários,620000,5.1.01 Salários,CC-LDA,2026-07-15
+EDU01,2026-07-Fol-035,Folha,2026-07-Folha,2026-07,Curitiba,Apropriação de salários,480000,5.1.01 Salários,CC-CTB,2026-07-15
+EDU01,2026-07-Fol-036,Folha,2026-07-Folha,2026-07,Maringá,Apropriação de salários,620000,5.1.01 Salários,CC-MGA,2026-07-15
+EDU01,2026-07-Fol-037,Folha,2026-07-Folha,2026-07,Londrina,Apropriação de salários,480000,5.1.01 Salários,CC-LDA,2026-07-15
+EDU01,2026-07-Fol-038,Folha,2026-07-Folha,2026-07,Curitiba,Apropriação de salários,620000,5.1.01 Salários,CC-CTB,2026-07-15
+EDU01,2026-07-Fol-039,Folha,2026-07-Folha,2026-07,Maringá,Apropriação de salários,350000,5.1.01 Salários,CC-MGA,2026-07-15
+EDU01,2026-07-Fol-040,Folha,2026-07-Folha,2026-07,Londrina,Apropriação de salários,620000,5.1.01 Salários,CC-LDA,2026-07-15
+EDU01,2026-07-Fol-041,Folha,2026-07-Folha,2026-07,Curitiba,Apropriação de salários,620000,5.1.01 Salários,CC-CTB,2026-07-15
+EDU01,2026-07-Fol-042,Folha,2026-07-Folha,2026-07,Maringá,Apropriação de salários,350000,5.1.01 Salários,CC-MGA,2026-07-15
+EDU01,2026-07-Fol-043,Folha,2026-07-Folha,2026-07,Londrina,Apropriação de salários,620000,5.1.01 Salários,CC-LDA,2026-07-15
+EDU01,2026-07-Fol-044,Folha,2026-07-Folha,2026-07,Curitiba,Apropriação de salários,620000,5.1.01 Salários,CC-CTB,2026-07-15
+EDU01,2026-07-Fol-045,Folha,2026-07-Folha,2026-07,Maringá,Apropriação de salários,480000,5.1.01 Salários,CC-MGA,2026-07-15
+EDU01,2026-07-Fol-046,Folha,2026-07-Folha,2026-07,Londrina,Apropriação de salários,620000,5.1.01 Salários,CC-LDA,2026-07-15
+EDU01,2026-07-Fol-047,Folha,2026-07-Folha,2026-07,Curitiba,Apropriação de salários,480000,5.1.01 Salários,CC-CTB,2026-07-15
+EDU01,2026-07-Fol-048,Folha,2026-07-Folha,2026-07,Maringá,Apropriação de salários,350000,5.1.01 Salários,CC-MGA,2026-07-15
+EDU01,2026-07-Fol-049,Folha,2026-07-Folha,2026-07,Londrina,Apropriação de salários,480000,5.1.01 Salários,CC-LDA,2026-07-15
+EDU01,2026-07-Fol-050,Folha,2026-07-Folha,2026-07,Curitiba,Apropriação de salários,480000,5.1.01 Salários,CC-CTB,2026-07-15
+EDU01,2026-07-Fol-051,Folha,2026-07-Folha,2026-07,Maringá,Apropriação de salários,350000,5.1.01 Salários,CC-MGA,2026-07-15
+EDU01,2026-07-Fol-052,Folha,2026-07-Folha,2026-07,Londrina,Apropriação de salários,480000,5.1.01 Salários,CC-LDA,2026-07-15
+EDU01,2026-07-Fol-053,Folha,2026-07-Folha,2026-07,Curitiba,Apropriação de salários,350000,5.1.01 Salários,CC-CTB,2026-07-15
+EDU01,2026-07-Fol-054,Folha,2026-07-Folha,2026-07,Maringá,Apropriação de salários,620000,5.1.01 Salários,CC-MGA,2026-07-15
+EDU01,2026-07-Fol-055,Folha,2026-07-Folha,2026-07,Londrina,Apropriação de salários,620000,5.1.01 Salários,CC-LDA,2026-07-15
+EDU01,2026-07-Fol-056,Folha,2026-07-Folha,2026-07,Curitiba,Apropriação de salários,480000,5.1.01 Salários,CC-CTB,2026-07-15
+EDU01,2026-07-Fol-057,Folha,2026-07-Folha,2026-07,Maringá,Apropriação de salários,620000,5.1.01 Salários,CC-MGA,2026-07-15
+EDU01,2026-07-Fol-058,Folha,2026-07-Folha,2026-07,Londrina,Apropriação de salários,350000,5.1.01 Salários,CC-LDA,2026-07-15
+EDU01,2026-07-Fol-059,Folha,2026-07-Folha,2026-07,Curitiba,Apropriação de salários,620000,5.1.01 Salários,CC-CTB,2026-07-15
+EDU01,2026-07-Fol-060,Folha,2026-07-Folha,2026-07,Maringá,Apropriação de salários,350000,5.1.01 Salários,CC-MGA,2026-07-15
+EDU01,2026-08-Aca-001,Acadêmico,2026-08-Acadêmico,2026-08,Londrina,Reconhecimento de mensalidade,89900,4.1.01 Receita de serviços,CC-LDA,2026-08-15
+EDU01,2026-08-Aca-002,Acadêmico,2026-08-Acadêmico,2026-08,Curitiba,Reconhecimento de mensalidade,64900,4.1.01 Receita de serviços,CC-CTB,2026-08-15
+EDU01,2026-08-Aca-003,Acadêmico,2026-08-Acadêmico,2026-08,Maringá,Reconhecimento de mensalidade,89900,4.1.01 Receita de serviços,CC-MGA,2026-08-15
+EDU01,2026-08-Aca-004,Acadêmico,2026-08-Acadêmico,2026-08,Londrina,Reconhecimento de mensalidade,89900,4.1.01 Receita de serviços,CC-LDA,2026-08-15
+EDU01,2026-08-Aca-005,Acadêmico,2026-08-Acadêmico,2026-08,Curitiba,Reconhecimento de mensalidade,89900,4.1.01 Receita de serviços,CC-CTB,2026-08-15
+EDU01,2026-08-Aca-006,Acadêmico,2026-08-Acadêmico,2026-08,Maringá,Reconhecimento de mensalidade,49900,4.1.01 Receita de serviços,CC-MGA,2026-08-15
+EDU01,2026-08-Aca-007,Acadêmico,2026-08-Acadêmico,2026-08,Londrina,Reconhecimento de mensalidade,49900,4.1.01 Receita de serviços,CC-LDA,2026-08-15
+EDU01,2026-08-Aca-008,Acadêmico,2026-08-Acadêmico,2026-08,Curitiba,Reconhecimento de mensalidade,64900,4.1.01 Receita de serviços,CC-CTB,2026-08-15
+EDU01,2026-08-Aca-009,Acadêmico,2026-08-Acadêmico,2026-08,Maringá,Reconhecimento de mensalidade,49900,4.1.01 Receita de serviços,CC-MGA,2026-08-15
+EDU01,2026-08-Aca-010,Acadêmico,2026-08-Acadêmico,2026-08,Londrina,Reconhecimento de mensalidade,89900,4.1.01 Receita de serviços,CC-LDA,2026-08-15
+EDU01,2026-08-Aca-011,Acadêmico,2026-08-Acadêmico,2026-08,Curitiba,Reconhecimento de mensalidade,89900,4.1.01 Receita de serviços,CC-CTB,2026-08-15
+EDU01,2026-08-Aca-012,Acadêmico,2026-08-Acadêmico,2026-08,Maringá,Reconhecimento de mensalidade,49900,4.1.01 Receita de serviços,CC-MGA,2026-08-15
+EDU01,2026-08-Aca-013,Acadêmico,2026-08-Acadêmico,2026-08,Londrina,Reconhecimento de mensalidade,89900,4.1.01 Receita de serviços,CC-LDA,2026-08-15
+EDU01,2026-08-Aca-014,Acadêmico,2026-08-Acadêmico,2026-08,Curitiba,Reconhecimento de mensalidade,64900,4.1.01 Receita de serviços,CC-CTB,2026-08-15
+EDU01,2026-08-Aca-015,Acadêmico,2026-08-Acadêmico,2026-08,Maringá,Reconhecimento de mensalidade,64900,4.1.01 Receita de serviços,CC-MGA,2026-08-15
+EDU01,2026-08-Aca-016,Acadêmico,2026-08-Acadêmico,2026-08,Londrina,Reconhecimento de mensalidade,49900,4.1.01 Receita de serviços,CC-LDA,2026-08-15
+EDU01,2026-08-Aca-017,Acadêmico,2026-08-Acadêmico,2026-08,Curitiba,Reconhecimento de mensalidade,49900,4.1.01 Receita de serviços,CC-CTB,2026-08-15
+EDU01,2026-08-Aca-018,Acadêmico,2026-08-Acadêmico,2026-08,Maringá,Reconhecimento de mensalidade,64900,4.1.01 Receita de serviços,CC-MGA,2026-08-15
+EDU01,2026-08-Aca-019,Acadêmico,2026-08-Acadêmico,2026-08,Londrina,Reconhecimento de mensalidade,64900,4.1.01 Receita de serviços,CC-LDA,2026-08-15
+EDU01,2026-08-Aca-020,Acadêmico,2026-08-Acadêmico,2026-08,Curitiba,Reconhecimento de mensalidade,49900,4.1.01 Receita de serviços,CC-CTB,2026-08-15
+EDU01,2026-08-Aca-021,Acadêmico,2026-08-Acadêmico,2026-08,Maringá,Reconhecimento de mensalidade,49900,4.1.01 Receita de serviços,CC-MGA,2026-08-15
+EDU01,2026-08-Aca-022,Acadêmico,2026-08-Acadêmico,2026-08,Londrina,Reconhecimento de mensalidade,49900,4.1.01 Receita de serviços,CC-LDA,2026-08-15
+EDU01,2026-08-Aca-023,Acadêmico,2026-08-Acadêmico,2026-08,Curitiba,Reconhecimento de mensalidade,89900,4.1.01 Receita de serviços,CC-CTB,2026-08-15
+EDU01,2026-08-Aca-024,Acadêmico,2026-08-Acadêmico,2026-08,Maringá,Reconhecimento de mensalidade,49900,4.1.01 Receita de serviços,CC-MGA,2026-08-15
+EDU01,2026-08-Aca-025,Acadêmico,2026-08-Acadêmico,2026-08,Londrina,Reconhecimento de mensalidade,49900,4.1.01 Receita de serviços,CC-LDA,2026-08-15
+EDU01,2026-08-Aca-026,Acadêmico,2026-08-Acadêmico,2026-08,Curitiba,Reconhecimento de mensalidade,89900,4.1.01 Receita de serviços,CC-CTB,2026-08-15
+EDU01,2026-08-Aca-027,Acadêmico,2026-08-Acadêmico,2026-08,Maringá,Reconhecimento de mensalidade,64900,4.1.01 Receita de serviços,CC-MGA,2026-08-15
+EDU01,2026-08-Aca-028,Acadêmico,2026-08-Acadêmico,2026-08,Londrina,Reconhecimento de mensalidade,49900,4.1.01 Receita de serviços,CC-LDA,2026-08-15
+EDU01,2026-08-Aca-029,Acadêmico,2026-08-Acadêmico,2026-08,Curitiba,Reconhecimento de mensalidade,89900,4.1.01 Receita de serviços,CC-CTB,2026-08-15
+EDU01,2026-08-Aca-030,Acadêmico,2026-08-Acadêmico,2026-08,Maringá,Reconhecimento de mensalidade,49900,4.1.01 Receita de serviços,CC-MGA,2026-08-15
+EDU01,2026-08-Aca-031,Acadêmico,2026-08-Acadêmico,2026-08,Londrina,Reconhecimento de mensalidade,49900,4.1.01 Receita de serviços,CC-LDA,2026-08-15
+EDU01,2026-08-Aca-032,Acadêmico,2026-08-Acadêmico,2026-08,Curitiba,Reconhecimento de mensalidade,89900,4.1.01 Receita de serviços,CC-CTB,2026-08-15
+EDU01,2026-08-Aca-033,Acadêmico,2026-08-Acadêmico,2026-08,Maringá,Reconhecimento de mensalidade,64900,4.1.01 Receita de serviços,CC-MGA,2026-08-15
+EDU01,2026-08-Aca-034,Acadêmico,2026-08-Acadêmico,2026-08,Londrina,Reconhecimento de mensalidade,89900,4.1.01 Receita de serviços,CC-LDA,2026-08-15
+EDU01,2026-08-Aca-035,Acadêmico,2026-08-Acadêmico,2026-08,Curitiba,Reconhecimento de mensalidade,49900,4.1.01 Receita de serviços,CC-CTB,2026-08-15
+EDU01,2026-08-Aca-036,Acadêmico,2026-08-Acadêmico,2026-08,Maringá,Reconhecimento de mensalidade,64900,4.1.01 Receita de serviços,CC-MGA,2026-08-15
+EDU01,2026-08-Aca-037,Acadêmico,2026-08-Acadêmico,2026-08,Londrina,Reconhecimento de mensalidade,89900,4.1.01 Receita de serviços,CC-LDA,2026-08-15
+EDU01,2026-08-Aca-038,Acadêmico,2026-08-Acadêmico,2026-08,Curitiba,Reconhecimento de mensalidade,89900,4.1.01 Receita de serviços,CC-CTB,2026-08-15
+EDU01,2026-08-Aca-039,Acadêmico,2026-08-Acadêmico,2026-08,Maringá,Reconhecimento de mensalidade,64900,4.1.01 Receita de serviços,CC-MGA,2026-08-15
+EDU01,2026-08-Aca-040,Acadêmico,2026-08-Acadêmico,2026-08,Londrina,Reconhecimento de mensalidade,49900,4.1.01 Receita de serviços,CC-LDA,2026-08-15
+EDU01,2026-08-Aca-041,Acadêmico,2026-08-Acadêmico,2026-08,Curitiba,Reconhecimento de mensalidade,89900,4.1.01 Receita de serviços,CC-CTB,2026-08-15
+EDU01,2026-08-Aca-042,Acadêmico,2026-08-Acadêmico,2026-08,Maringá,Reconhecimento de mensalidade,89900,4.1.01 Receita de serviços,CC-MGA,2026-08-15
+EDU01,2026-08-Aca-043,Acadêmico,2026-08-Acadêmico,2026-08,Londrina,Reconhecimento de mensalidade,89900,4.1.01 Receita de serviços,CC-LDA,2026-08-15
+EDU01,2026-08-Aca-044,Acadêmico,2026-08-Acadêmico,2026-08,Curitiba,Reconhecimento de mensalidade,49900,4.1.01 Receita de serviços,CC-CTB,2026-08-15
+EDU01,2026-08-Aca-045,Acadêmico,2026-08-Acadêmico,2026-08,Maringá,Reconhecimento de mensalidade,89900,4.1.01 Receita de serviços,CC-MGA,2026-08-15
+EDU01,2026-08-Aca-046,Acadêmico,2026-08-Acadêmico,2026-08,Londrina,Reconhecimento de mensalidade,64900,4.1.01 Receita de serviços,CC-LDA,2026-08-15
+EDU01,2026-08-Aca-047,Acadêmico,2026-08-Acadêmico,2026-08,Curitiba,Reconhecimento de mensalidade,64900,4.1.01 Receita de serviços,CC-CTB,2026-08-15
+EDU01,2026-08-Aca-048,Acadêmico,2026-08-Acadêmico,2026-08,Maringá,Reconhecimento de mensalidade,89900,4.1.01 Receita de serviços,CC-MGA,2026-08-15
+EDU01,2026-08-Aca-049,Acadêmico,2026-08-Acadêmico,2026-08,Londrina,Reconhecimento de mensalidade,89900,4.1.01 Receita de serviços,CC-LDA,2026-08-15
+EDU01,2026-08-Aca-050,Acadêmico,2026-08-Acadêmico,2026-08,Curitiba,Reconhecimento de mensalidade,64900,4.1.01 Receita de serviços,CC-CTB,2026-08-15
+EDU01,2026-08-Aca-051,Acadêmico,2026-08-Acadêmico,2026-08,Maringá,Reconhecimento de mensalidade,64900,4.1.01 Receita de serviços,CC-MGA,2026-08-15
+EDU01,2026-08-Aca-052,Acadêmico,2026-08-Acadêmico,2026-08,Londrina,Reconhecimento de mensalidade,89900,4.1.01 Receita de serviços,CC-LDA,2026-08-15
+EDU01,2026-08-Aca-053,Acadêmico,2026-08-Acadêmico,2026-08,Curitiba,Reconhecimento de mensalidade,64900,4.1.01 Receita de serviços,CC-CTB,2026-08-15
+EDU01,2026-08-Aca-054,Acadêmico,2026-08-Acadêmico,2026-08,Maringá,Reconhecimento de mensalidade,49900,4.1.01 Receita de serviços,CC-MGA,2026-08-15
+EDU01,2026-08-Aca-055,Acadêmico,2026-08-Acadêmico,2026-08,Londrina,Reconhecimento de mensalidade,49900,4.1.01 Receita de serviços,CC-LDA,2026-08-15
+EDU01,2026-08-Aca-056,Acadêmico,2026-08-Acadêmico,2026-08,Curitiba,Reconhecimento de mensalidade,49900,4.1.01 Receita de serviços,CC-CTB,2026-08-15
+EDU01,2026-08-Aca-057,Acadêmico,2026-08-Acadêmico,2026-08,Maringá,Reconhecimento de mensalidade,49900,4.1.01 Receita de serviços,CC-MGA,2026-08-15
+EDU01,2026-08-Aca-058,Acadêmico,2026-08-Acadêmico,2026-08,Londrina,Reconhecimento de mensalidade,64900,4.1.01 Receita de serviços,CC-LDA,2026-08-15
+EDU01,2026-08-Aca-059,Acadêmico,2026-08-Acadêmico,2026-08,Curitiba,Reconhecimento de mensalidade,49900,4.1.01 Receita de serviços,CC-CTB,2026-08-15
+EDU01,2026-08-Aca-060,Acadêmico,2026-08-Acadêmico,2026-08,Maringá,Reconhecimento de mensalidade,89900,4.1.01 Receita de serviços,CC-MGA,2026-08-15
+EDU01,2026-08-Fin-001,Financeiro,2026-08-Financeiro,2026-08,Londrina,Recebimento de cliente,89900,1.1.01 Bancos,CC-LDA,2026-08-15
+EDU01,2026-08-Fin-002,Financeiro,2026-08-Financeiro,2026-08,Curitiba,Recebimento de cliente,49900,1.1.01 Bancos,CC-CTB,2026-08-15
+EDU01,2026-08-Fin-003,Financeiro,2026-08-Financeiro,2026-08,Maringá,Recebimento de cliente,89900,1.1.01 Bancos,CC-MGA,2026-08-15
+EDU01,2026-08-Fin-004,Financeiro,2026-08-Financeiro,2026-08,Londrina,Recebimento de cliente,49900,1.1.01 Bancos,CC-LDA,2026-08-15
+EDU01,2026-08-Fin-005,Financeiro,2026-08-Financeiro,2026-08,Curitiba,Recebimento de cliente,49900,1.1.01 Bancos,CC-CTB,2026-08-15
+EDU01,2026-08-Fin-006,Financeiro,2026-08-Financeiro,2026-08,Maringá,Recebimento de cliente,49900,1.1.01 Bancos,CC-MGA,2026-08-15
+EDU01,2026-08-Fin-007,Financeiro,2026-08-Financeiro,2026-08,Londrina,Recebimento de cliente,89900,1.1.01 Bancos,CC-LDA,2026-08-15
+EDU01,2026-08-Fin-008,Financeiro,2026-08-Financeiro,2026-08,Curitiba,Recebimento de cliente,89900,1.1.01 Bancos,CC-CTB,2026-08-15
+EDU01,2026-08-Fin-009,Financeiro,2026-08-Financeiro,2026-08,Maringá,Recebimento de cliente,49900,1.1.01 Bancos,CC-MGA,2026-08-15
+EDU01,2026-08-Fin-010,Financeiro,2026-08-Financeiro,2026-08,Londrina,Recebimento de cliente,49900,1.1.01 Bancos,CC-LDA,2026-08-15
+EDU01,2026-08-Fin-011,Financeiro,2026-08-Financeiro,2026-08,Curitiba,Recebimento de cliente,49900,1.1.01 Bancos,CC-CTB,2026-08-15
+EDU01,2026-08-Fin-012,Financeiro,2026-08-Financeiro,2026-08,Maringá,Recebimento de cliente,49900,1.1.01 Bancos,CC-MGA,2026-08-15
+EDU01,2026-08-Fin-013,Financeiro,2026-08-Financeiro,2026-08,Londrina,Recebimento de cliente,64900,1.1.01 Bancos,CC-LDA,2026-08-15
+EDU01,2026-08-Fin-014,Financeiro,2026-08-Financeiro,2026-08,Curitiba,Recebimento de cliente,49900,1.1.01 Bancos,CC-CTB,2026-08-15
+EDU01,2026-08-Fin-015,Financeiro,2026-08-Financeiro,2026-08,Maringá,Recebimento de cliente,89900,1.1.01 Bancos,CC-MGA,2026-08-15
+EDU01,2026-08-Fin-016,Financeiro,2026-08-Financeiro,2026-08,Londrina,Recebimento de cliente,49900,1.1.01 Bancos,CC-LDA,2026-08-15
+EDU01,2026-08-Fin-017,Financeiro,2026-08-Financeiro,2026-08,Curitiba,Recebimento de cliente,64900,1.1.01 Bancos,CC-CTB,2026-08-15
+EDU01,2026-08-Fin-018,Financeiro,2026-08-Financeiro,2026-08,Maringá,Recebimento de cliente,89900,1.1.01 Bancos,CC-MGA,2026-08-15
+EDU01,2026-08-Fin-019,Financeiro,2026-08-Financeiro,2026-08,Londrina,Recebimento de cliente,64900,1.1.01 Bancos,CC-LDA,2026-08-15
+EDU01,2026-08-Fin-020,Financeiro,2026-08-Financeiro,2026-08,Curitiba,Recebimento de cliente,49900,1.1.01 Bancos,CC-CTB,2026-08-15
+EDU01,2026-08-Fin-021,Financeiro,2026-08-Financeiro,2026-08,Maringá,Recebimento de cliente,89900,1.1.01 Bancos,CC-MGA,2026-08-15
+EDU01,2026-08-Fin-022,Financeiro,2026-08-Financeiro,2026-08,Londrina,Recebimento de cliente,49900,1.1.01 Bancos,CC-LDA,2026-08-15
+EDU01,2026-08-Fin-023,Financeiro,2026-08-Financeiro,2026-08,Curitiba,Recebimento de cliente,89900,1.1.01 Bancos,CC-CTB,2026-08-15
+EDU01,2026-08-Fin-024,Financeiro,2026-08-Financeiro,2026-08,Maringá,Recebimento de cliente,89900,1.1.01 Bancos,CC-MGA,2026-08-15
+EDU01,2026-08-Fin-025,Financeiro,2026-08-Financeiro,2026-08,Londrina,Recebimento de cliente,89900,1.1.01 Bancos,CC-LDA,2026-08-15
+EDU01,2026-08-Fin-026,Financeiro,2026-08-Financeiro,2026-08,Curitiba,Recebimento de cliente,64900,1.1.01 Bancos,CC-CTB,2026-08-15
+EDU01,2026-08-Fin-027,Financeiro,2026-08-Financeiro,2026-08,Maringá,Recebimento de cliente,49900,1.1.01 Bancos,CC-MGA,2026-08-15
+EDU01,2026-08-Fin-028,Financeiro,2026-08-Financeiro,2026-08,Londrina,Recebimento de cliente,64900,1.1.01 Bancos,CC-LDA,2026-08-15
+EDU01,2026-08-Fin-029,Financeiro,2026-08-Financeiro,2026-08,Curitiba,Recebimento de cliente,64900,1.1.01 Bancos,CC-CTB,2026-08-15
+EDU01,2026-08-Fin-030,Financeiro,2026-08-Financeiro,2026-08,Maringá,Recebimento de cliente,49900,1.1.01 Bancos,CC-MGA,2026-08-15
+EDU01,2026-08-Fin-031,Financeiro,2026-08-Financeiro,2026-08,Londrina,Recebimento de cliente,49900,1.1.01 Bancos,CC-LDA,2026-08-15
+EDU01,2026-08-Fin-032,Financeiro,2026-08-Financeiro,2026-08,Curitiba,Recebimento de cliente,49900,1.1.01 Bancos,CC-CTB,2026-08-15
+EDU01,2026-08-Fin-033,Financeiro,2026-08-Financeiro,2026-08,Maringá,Recebimento de cliente,89900,1.1.01 Bancos,CC-MGA,2026-08-15
+EDU01,2026-08-Fin-034,Financeiro,2026-08-Financeiro,2026-08,Londrina,Recebimento de cliente,64900,1.1.01 Bancos,CC-LDA,2026-08-15
+EDU01,2026-08-Fin-035,Financeiro,2026-08-Financeiro,2026-08,Curitiba,Recebimento de cliente,64900,1.1.01 Bancos,CC-CTB,2026-08-15
+EDU01,2026-08-Fin-036,Financeiro,2026-08-Financeiro,2026-08,Maringá,Recebimento de cliente,64900,1.1.01 Bancos,CC-MGA,2026-08-15
+EDU01,2026-08-Fin-037,Financeiro,2026-08-Financeiro,2026-08,Londrina,Recebimento de cliente,64900,1.1.01 Bancos,CC-LDA,2026-08-15
+EDU01,2026-08-Fin-038,Financeiro,2026-08-Financeiro,2026-08,Curitiba,Recebimento de cliente,64900,1.1.01 Bancos,CC-CTB,2026-08-15
+EDU01,2026-08-Fin-039,Financeiro,2026-08-Financeiro,2026-08,Maringá,Recebimento de cliente,89900,1.1.01 Bancos,CC-MGA,2026-08-15
+EDU01,2026-08-Fin-040,Financeiro,2026-08-Financeiro,2026-08,Londrina,Recebimento de cliente,49900,1.1.01 Bancos,CC-LDA,2026-08-15
+EDU01,2026-08-Fin-041,Financeiro,2026-08-Financeiro,2026-08,Curitiba,Recebimento de cliente,89900,1.1.01 Bancos,CC-CTB,2026-08-15
+EDU01,2026-08-Fin-042,Financeiro,2026-08-Financeiro,2026-08,Maringá,Recebimento de cliente,89900,1.1.01 Bancos,CC-MGA,2026-08-15
+EDU01,2026-08-Fin-043,Financeiro,2026-08-Financeiro,2026-08,Londrina,Recebimento de cliente,89900,1.1.01 Bancos,CC-LDA,2026-08-15
+EDU01,2026-08-Fin-044,Financeiro,2026-08-Financeiro,2026-08,Curitiba,Recebimento de cliente,49900,1.1.01 Bancos,CC-CTB,2026-08-15
+EDU01,2026-08-Fin-045,Financeiro,2026-08-Financeiro,2026-08,Maringá,Recebimento de cliente,49900,1.1.01 Bancos,CC-MGA,2026-08-15
+EDU01,2026-08-Fin-046,Financeiro,2026-08-Financeiro,2026-08,Londrina,Recebimento de cliente,64900,1.1.01 Bancos,CC-LDA,2026-08-15
+EDU01,2026-08-Fin-047,Financeiro,2026-08-Financeiro,2026-08,Curitiba,Recebimento de cliente,89900,1.1.01 Bancos,CC-CTB,2026-08-15
+EDU01,2026-08-Fin-048,Financeiro,2026-08-Financeiro,2026-08,Maringá,Recebimento de cliente,64900,1.1.01 Bancos,CC-MGA,2026-08-15
+EDU01,2026-08-Fin-049,Financeiro,2026-08-Financeiro,2026-08,Londrina,Recebimento de cliente,49900,1.1.01 Bancos,CC-LDA,2026-08-15
+EDU01,2026-08-Fin-050,Financeiro,2026-08-Financeiro,2026-08,Curitiba,Recebimento de cliente,49900,1.1.01 Bancos,CC-CTB,2026-08-15
+EDU01,2026-08-Fin-051,Financeiro,2026-08-Financeiro,2026-08,Maringá,Recebimento de cliente,49900,1.1.01 Bancos,CC-MGA,2026-08-15
+EDU01,2026-08-Fin-052,Financeiro,2026-08-Financeiro,2026-08,Londrina,Recebimento de cliente,49900,1.1.01 Bancos,CC-LDA,2026-08-15
+EDU01,2026-08-Fin-053,Financeiro,2026-08-Financeiro,2026-08,Curitiba,Recebimento de cliente,89900,1.1.01 Bancos,CC-CTB,2026-08-15
+EDU01,2026-08-Fin-054,Financeiro,2026-08-Financeiro,2026-08,Maringá,Recebimento de cliente,64900,1.1.01 Bancos,CC-MGA,2026-08-15
+EDU01,2026-08-Fin-055,Financeiro,2026-08-Financeiro,2026-08,Londrina,Recebimento de cliente,49900,1.1.01 Bancos,CC-LDA,2026-08-15
+EDU01,2026-08-Fin-056,Financeiro,2026-08-Financeiro,2026-08,Curitiba,Recebimento de cliente,64900,1.1.01 Bancos,CC-CTB,2026-08-15
+EDU01,2026-08-Fin-057,Financeiro,2026-08-Financeiro,2026-08,Maringá,Recebimento de cliente,49900,1.1.01 Bancos,CC-MGA,2026-08-15
+EDU01,2026-08-Fin-058,Financeiro,2026-08-Financeiro,2026-08,Londrina,Recebimento de cliente,64900,1.1.01 Bancos,CC-LDA,2026-08-15
+EDU01,2026-08-Fin-059,Financeiro,2026-08-Financeiro,2026-08,Curitiba,Recebimento de cliente,64900,1.1.01 Bancos,CC-CTB,2026-08-15
+EDU01,2026-08-Fin-060,Financeiro,2026-08-Financeiro,2026-08,Maringá,Recebimento de cliente,49900,1.1.01 Bancos,CC-MGA,2026-08-15
+EDU01,2026-08-Fol-001,Folha,2026-08-Folha,2026-08,Londrina,Apropriação de salários,350000,5.1.01 Salários,CC-LDA,2026-08-15
+EDU01,2026-08-Fol-002,Folha,2026-08-Folha,2026-08,Curitiba,Apropriação de salários,480000,5.1.01 Salários,CC-CTB,2026-08-15
+EDU01,2026-08-Fol-003,Folha,2026-08-Folha,2026-08,Maringá,Apropriação de salários,620000,5.1.01 Salários,CC-MGA,2026-08-15
+EDU01,2026-08-Fol-004,Folha,2026-08-Folha,2026-08,Londrina,Apropriação de salários,350000,5.1.01 Salários,CC-LDA,2026-08-15
+EDU01,2026-08-Fol-005,Folha,2026-08-Folha,2026-08,Curitiba,Apropriação de salários,350000,5.1.01 Salários,CC-CTB,2026-08-15
+EDU01,2026-08-Fol-006,Folha,2026-08-Folha,2026-08,Maringá,Apropriação de salários,620000,5.1.01 Salários,CC-MGA,2026-08-15
+EDU01,2026-08-Fol-007,Folha,2026-08-Folha,2026-08,Londrina,Apropriação de salários,620000,5.1.01 Salários,CC-LDA,2026-08-15
+EDU01,2026-08-Fol-008,Folha,2026-08-Folha,2026-08,Curitiba,Apropriação de salários,350000,5.1.01 Salários,CC-CTB,2026-08-15
+EDU01,2026-08-Fol-009,Folha,2026-08-Folha,2026-08,Maringá,Apropriação de salários,350000,5.1.01 Salários,CC-MGA,2026-08-15
+EDU01,2026-08-Fol-010,Folha,2026-08-Folha,2026-08,Londrina,Apropriação de salários,350000,5.1.01 Salários,CC-LDA,2026-08-15
+EDU01,2026-08-Fol-011,Folha,2026-08-Folha,2026-08,Curitiba,Apropriação de salários,350000,5.1.01 Salários,CC-CTB,2026-08-15
+EDU01,2026-08-Fol-012,Folha,2026-08-Folha,2026-08,Maringá,Apropriação de salários,480000,5.1.01 Salários,CC-MGA,2026-08-15
+EDU01,2026-08-Fol-013,Folha,2026-08-Folha,2026-08,Londrina,Apropriação de salários,480000,5.1.01 Salários,CC-LDA,2026-08-15
+EDU01,2026-08-Fol-014,Folha,2026-08-Folha,2026-08,Curitiba,Apropriação de salários,480000,5.1.01 Salários,CC-CTB,2026-08-15
+EDU01,2026-08-Fol-015,Folha,2026-08-Folha,2026-08,Maringá,Apropriação de salários,350000,5.1.01 Salários,CC-MGA,2026-08-15
+EDU01,2026-08-Fol-016,Folha,2026-08-Folha,2026-08,Londrina,Apropriação de salários,480000,5.1.01 Salários,CC-LDA,2026-08-15
+EDU01,2026-08-Fol-017,Folha,2026-08-Folha,2026-08,Curitiba,Apropriação de salários,350000,5.1.01 Salários,CC-CTB,2026-08-15
+EDU01,2026-08-Fol-018,Folha,2026-08-Folha,2026-08,Maringá,Apropriação de salários,350000,5.1.01 Salários,CC-MGA,2026-08-15
+EDU01,2026-08-Fol-019,Folha,2026-08-Folha,2026-08,Londrina,Apropriação de salários,480000,5.1.01 Salários,CC-LDA,2026-08-15
+EDU01,2026-08-Fol-020,Folha,2026-08-Folha,2026-08,Curitiba,Apropriação de salários,350000,5.1.01 Salários,CC-CTB,2026-08-15
+EDU01,2026-08-Fol-021,Folha,2026-08-Folha,2026-08,Maringá,Apropriação de salários,480000,5.1.01 Salários,CC-MGA,2026-08-15
+EDU01,2026-08-Fol-022,Folha,2026-08-Folha,2026-08,Londrina,Apropriação de salários,480000,5.1.01 Salários,CC-LDA,2026-08-15
+EDU01,2026-08-Fol-023,Folha,2026-08-Folha,2026-08,Curitiba,Apropriação de salários,480000,5.1.01 Salários,CC-CTB,2026-08-15
+EDU01,2026-08-Fol-024,Folha,2026-08-Folha,2026-08,Maringá,Apropriação de salários,480000,5.1.01 Salários,CC-MGA,2026-08-15
+EDU01,2026-08-Fol-025,Folha,2026-08-Folha,2026-08,Londrina,Apropriação de salários,480000,5.1.01 Salários,CC-LDA,2026-08-15
+EDU01,2026-08-Fol-026,Folha,2026-08-Folha,2026-08,Curitiba,Apropriação de salários,620000,5.1.01 Salários,CC-CTB,2026-08-15
+EDU01,2026-08-Fol-027,Folha,2026-08-Folha,2026-08,Maringá,Apropriação de salários,620000,5.1.01 Salários,CC-MGA,2026-08-15
+EDU01,2026-08-Fol-028,Folha,2026-08-Folha,2026-08,Londrina,Apropriação de salários,620000,5.1.01 Salários,CC-LDA,2026-08-15
+EDU01,2026-08-Fol-029,Folha,2026-08-Folha,2026-08,Curitiba,Apropriação de salários,620000,5.1.01 Salários,CC-CTB,2026-08-15
+EDU01,2026-08-Fol-030,Folha,2026-08-Folha,2026-08,Maringá,Apropriação de salários,620000,5.1.01 Salários,CC-MGA,2026-08-15
+EDU01,2026-08-Fol-031,Folha,2026-08-Folha,2026-08,Londrina,Apropriação de salários,480000,5.1.01 Salários,CC-LDA,2026-08-15
+EDU01,2026-08-Fol-032,Folha,2026-08-Folha,2026-08,Curitiba,Apropriação de salários,350000,5.1.01 Salários,CC-CTB,2026-08-15
+EDU01,2026-08-Fol-033,Folha,2026-08-Folha,2026-08,Maringá,Apropriação de salários,350000,5.1.01 Salários,CC-MGA,2026-08-15
+EDU01,2026-08-Fol-034,Folha,2026-08-Folha,2026-08,Londrina,Apropriação de salários,480000,5.1.01 Salários,CC-LDA,2026-08-15
+EDU01,2026-08-Fol-035,Folha,2026-08-Folha,2026-08,Curitiba,Apropriação de salários,350000,5.1.01 Salários,CC-CTB,2026-08-15
+EDU01,2026-08-Fol-036,Folha,2026-08-Folha,2026-08,Maringá,Apropriação de salários,350000,5.1.01 Salários,CC-MGA,2026-08-15
+EDU01,2026-08-Fol-037,Folha,2026-08-Folha,2026-08,Londrina,Apropriação de salários,620000,5.1.01 Salários,CC-LDA,2026-08-15
+EDU01,2026-08-Fol-038,Folha,2026-08-Folha,2026-08,Curitiba,Apropriação de salários,620000,5.1.01 Salários,CC-CTB,2026-08-15
+EDU01,2026-08-Fol-039,Folha,2026-08-Folha,2026-08,Maringá,Apropriação de salários,620000,5.1.01 Salários,CC-MGA,2026-08-15
+EDU01,2026-08-Fol-040,Folha,2026-08-Folha,2026-08,Londrina,Apropriação de salários,350000,5.1.01 Salários,CC-LDA,2026-08-15
+EDU01,2026-08-Fol-041,Folha,2026-08-Folha,2026-08,Curitiba,Apropriação de salários,620000,5.1.01 Salários,CC-CTB,2026-08-15
+EDU01,2026-08-Fol-042,Folha,2026-08-Folha,2026-08,Maringá,Apropriação de salários,480000,5.1.01 Salários,CC-MGA,2026-08-15
+EDU01,2026-08-Fol-043,Folha,2026-08-Folha,2026-08,Londrina,Apropriação de salários,350000,5.1.01 Salários,CC-LDA,2026-08-15
+EDU01,2026-08-Fol-044,Folha,2026-08-Folha,2026-08,Curitiba,Apropriação de salários,350000,5.1.01 Salários,CC-CTB,2026-08-15
+EDU01,2026-08-Fol-045,Folha,2026-08-Folha,2026-08,Maringá,Apropriação de salários,620000,5.1.01 Salários,CC-MGA,2026-08-15
+EDU01,2026-08-Fol-046,Folha,2026-08-Folha,2026-08,Londrina,Apropriação de salários,480000,5.1.01 Salários,CC-LDA,2026-08-15
+EDU01,2026-08-Fol-047,Folha,2026-08-Folha,2026-08,Curitiba,Apropriação de salários,620000,5.1.01 Salários,CC-CTB,2026-08-15
+EDU01,2026-08-Fol-048,Folha,2026-08-Folha,2026-08,Maringá,Apropriação de salários,620000,5.1.01 Salários,CC-MGA,2026-08-15
+EDU01,2026-08-Fol-049,Folha,2026-08-Folha,2026-08,Londrina,Apropriação de salários,350000,5.1.01 Salários,CC-LDA,2026-08-15
+EDU01,2026-08-Fol-050,Folha,2026-08-Folha,2026-08,Curitiba,Apropriação de salários,350000,5.1.01 Salários,CC-CTB,2026-08-15
+EDU01,2026-08-Fol-051,Folha,2026-08-Folha,2026-08,Maringá,Apropriação de salários,620000,5.1.01 Salários,CC-MGA,2026-08-15
+EDU01,2026-08-Fol-052,Folha,2026-08-Folha,2026-08,Londrina,Apropriação de salários,350000,5.1.01 Salários,CC-LDA,2026-08-15
+EDU01,2026-08-Fol-053,Folha,2026-08-Folha,2026-08,Curitiba,Apropriação de salários,350000,5.1.01 Salários,CC-CTB,2026-08-15
+EDU01,2026-08-Fol-054,Folha,2026-08-Folha,2026-08,Maringá,Apropriação de salários,350000,5.1.01 Salários,CC-MGA,2026-08-15
+EDU01,2026-08-Fol-055,Folha,2026-08-Folha,2026-08,Londrina,Apropriação de salários,620000,5.1.01 Salários,CC-LDA,2026-08-15
+EDU01,2026-08-Fol-056,Folha,2026-08-Folha,2026-08,Curitiba,Apropriação de salários,350000,5.1.01 Salários,CC-CTB,2026-08-15
+EDU01,2026-08-Fol-057,Folha,2026-08-Folha,2026-08,Maringá,Apropriação de salários,620000,5.1.01 Salários,CC-MGA,2026-08-15
+EDU01,2026-08-Fol-058,Folha,2026-08-Folha,2026-08,Londrina,Apropriação de salários,350000,5.1.01 Salários,CC-LDA,2026-08-15
+EDU01,2026-08-Fol-059,Folha,2026-08-Folha,2026-08,Curitiba,Apropriação de salários,480000,5.1.01 Salários,CC-CTB,2026-08-15
+EDU01,2026-08-Fol-060,Folha,2026-08-Folha,2026-08,Maringá,Apropriação de salários,350000,5.1.01 Salários,CC-MGA,2026-08-15
+EDU01,2026-09-Aca-001,Acadêmico,2026-09-Acadêmico,2026-09,Londrina,Reconhecimento de mensalidade,89900,4.1.01 Receita de serviços,CC-LDA,2026-09-15
+EDU01,2026-09-Aca-002,Acadêmico,2026-09-Acadêmico,2026-09,Curitiba,Reconhecimento de mensalidade,49900,4.1.01 Receita de serviços,CC-CTB,2026-09-15
+EDU01,2026-09-Aca-003,Acadêmico,2026-09-Acadêmico,2026-09,Maringá,Reconhecimento de mensalidade,89900,4.1.01 Receita de serviços,CC-MGA,2026-09-15
+EDU01,2026-09-Aca-004,Acadêmico,2026-09-Acadêmico,2026-09,Londrina,Reconhecimento de mensalidade,89900,4.1.01 Receita de serviços,CC-LDA,2026-09-15
+EDU01,2026-09-Aca-005,Acadêmico,2026-09-Acadêmico,2026-09,Curitiba,Reconhecimento de mensalidade,49900,4.1.01 Receita de serviços,CC-CTB,2026-09-15
+EDU01,2026-09-Aca-006,Acadêmico,2026-09-Acadêmico,2026-09,Maringá,Reconhecimento de mensalidade,89900,4.1.01 Receita de serviços,CC-MGA,2026-09-15
+EDU01,2026-09-Aca-007,Acadêmico,2026-09-Acadêmico,2026-09,Londrina,Reconhecimento de mensalidade,49900,4.1.01 Receita de serviços,CC-LDA,2026-09-15
+EDU01,2026-09-Aca-008,Acadêmico,2026-09-Acadêmico,2026-09,Curitiba,Reconhecimento de mensalidade,64900,4.1.01 Receita de serviços,CC-CTB,2026-09-15
+EDU01,2026-09-Aca-009,Acadêmico,2026-09-Acadêmico,2026-09,Maringá,Reconhecimento de mensalidade,89900,4.1.01 Receita de serviços,CC-MGA,2026-09-15
+EDU01,2026-09-Aca-010,Acadêmico,2026-09-Acadêmico,2026-09,Londrina,Reconhecimento de mensalidade,89900,4.1.01 Receita de serviços,CC-LDA,2026-09-15
+EDU01,2026-09-Aca-011,Acadêmico,2026-09-Acadêmico,2026-09,Curitiba,Reconhecimento de mensalidade,89900,4.1.01 Receita de serviços,CC-CTB,2026-09-15
+EDU01,2026-09-Aca-012,Acadêmico,2026-09-Acadêmico,2026-09,Maringá,Reconhecimento de mensalidade,89900,4.1.01 Receita de serviços,CC-MGA,2026-09-15
+EDU01,2026-09-Aca-013,Acadêmico,2026-09-Acadêmico,2026-09,Londrina,Reconhecimento de mensalidade,64900,4.1.01 Receita de serviços,CC-LDA,2026-09-15
+EDU01,2026-09-Aca-014,Acadêmico,2026-09-Acadêmico,2026-09,Curitiba,Reconhecimento de mensalidade,64900,4.1.01 Receita de serviços,CC-CTB,2026-09-15
+EDU01,2026-09-Aca-015,Acadêmico,2026-09-Acadêmico,2026-09,Maringá,Reconhecimento de mensalidade,49900,4.1.01 Receita de serviços,CC-MGA,2026-09-15
+EDU01,2026-09-Aca-016,Acadêmico,2026-09-Acadêmico,2026-09,Londrina,Reconhecimento de mensalidade,89900,4.1.01 Receita de serviços,CC-LDA,2026-09-15
+EDU01,2026-09-Aca-017,Acadêmico,2026-09-Acadêmico,2026-09,Curitiba,Reconhecimento de mensalidade,89900,4.1.01 Receita de serviços,CC-CTB,2026-09-15
+EDU01,2026-09-Aca-018,Acadêmico,2026-09-Acadêmico,2026-09,Maringá,Reconhecimento de mensalidade,64900,4.1.01 Receita de serviços,CC-MGA,2026-09-15
+EDU01,2026-09-Aca-019,Acadêmico,2026-09-Acadêmico,2026-09,Londrina,Reconhecimento de mensalidade,49900,4.1.01 Receita de serviços,CC-LDA,2026-09-15
+EDU01,2026-09-Aca-020,Acadêmico,2026-09-Acadêmico,2026-09,Curitiba,Reconhecimento de mensalidade,64900,4.1.01 Receita de serviços,CC-CTB,2026-09-15
+EDU01,2026-09-Aca-021,Acadêmico,2026-09-Acadêmico,2026-09,Maringá,Reconhecimento de mensalidade,64900,4.1.01 Receita de serviços,CC-MGA,2026-09-15
+EDU01,2026-09-Aca-022,Acadêmico,2026-09-Acadêmico,2026-09,Londrina,Reconhecimento de mensalidade,49900,4.1.01 Receita de serviços,CC-LDA,2026-09-15
+EDU01,2026-09-Aca-023,Acadêmico,2026-09-Acadêmico,2026-09,Curitiba,Reconhecimento de mensalidade,89900,4.1.01 Receita de serviços,CC-CTB,2026-09-15
+EDU01,2026-09-Aca-024,Acadêmico,2026-09-Acadêmico,2026-09,Maringá,Reconhecimento de mensalidade,89900,4.1.01 Receita de serviços,CC-MGA,2026-09-15
+EDU01,2026-09-Aca-025,Acadêmico,2026-09-Acadêmico,2026-09,Londrina,Reconhecimento de mensalidade,64900,4.1.01 Receita de serviços,CC-LDA,2026-09-15
+EDU01,2026-09-Aca-026,Acadêmico,2026-09-Acadêmico,2026-09,Curitiba,Reconhecimento de mensalidade,64900,4.1.01 Receita de serviços,CC-CTB,2026-09-15
+EDU01,2026-09-Aca-027,Acadêmico,2026-09-Acadêmico,2026-09,Maringá,Reconhecimento de mensalidade,64900,4.1.01 Receita de serviços,CC-MGA,2026-09-15
+EDU01,2026-09-Aca-028,Acadêmico,2026-09-Acadêmico,2026-09,Londrina,Reconhecimento de mensalidade,49900,4.1.01 Receita de serviços,CC-LDA,2026-09-15
+EDU01,2026-09-Aca-029,Acadêmico,2026-09-Acadêmico,2026-09,Curitiba,Reconhecimento de mensalidade,49900,4.1.01 Receita de serviços,CC-CTB,2026-09-15
+EDU01,2026-09-Aca-030,Acadêmico,2026-09-Acadêmico,2026-09,Maringá,Reconhecimento de mensalidade,64900,4.1.01 Receita de serviços,CC-MGA,2026-09-15
+EDU01,2026-09-Aca-031,Acadêmico,2026-09-Acadêmico,2026-09,Londrina,Reconhecimento de mensalidade,89900,4.1.01 Receita de serviços,CC-LDA,2026-09-15
+EDU01,2026-09-Aca-032,Acadêmico,2026-09-Acadêmico,2026-09,Curitiba,Reconhecimento de mensalidade,89900,4.1.01 Receita de serviços,CC-CTB,2026-09-15
+EDU01,2026-09-Aca-033,Acadêmico,2026-09-Acadêmico,2026-09,Maringá,Reconhecimento de mensalidade,49900,4.1.01 Receita de serviços,CC-MGA,2026-09-15
+EDU01,2026-09-Aca-034,Acadêmico,2026-09-Acadêmico,2026-09,Londrina,Reconhecimento de mensalidade,49900,4.1.01 Receita de serviços,CC-LDA,2026-09-15
+EDU01,2026-09-Aca-035,Acadêmico,2026-09-Acadêmico,2026-09,Curitiba,Reconhecimento de mensalidade,89900,4.1.01 Receita de serviços,CC-CTB,2026-09-15
+EDU01,2026-09-Aca-036,Acadêmico,2026-09-Acadêmico,2026-09,Maringá,Reconhecimento de mensalidade,49900,4.1.01 Receita de serviços,CC-MGA,2026-09-15
+EDU01,2026-09-Aca-037,Acadêmico,2026-09-Acadêmico,2026-09,Londrina,Reconhecimento de mensalidade,89900,4.1.01 Receita de serviços,CC-LDA,2026-09-15
+EDU01,2026-09-Aca-038,Acadêmico,2026-09-Acadêmico,2026-09,Curitiba,Reconhecimento de mensalidade,64900,4.1.01 Receita de serviços,CC-CTB,2026-09-15
+EDU01,2026-09-Aca-039,Acadêmico,2026-09-Acadêmico,2026-09,Maringá,Reconhecimento de mensalidade,49900,4.1.01 Receita de serviços,CC-MGA,2026-09-15
+EDU01,2026-09-Aca-040,Acadêmico,2026-09-Acadêmico,2026-09,Londrina,Reconhecimento de mensalidade,64900,4.1.01 Receita de serviços,CC-LDA,2026-09-15
+EDU01,2026-09-Aca-041,Acadêmico,2026-09-Acadêmico,2026-09,Curitiba,Reconhecimento de mensalidade,49900,4.1.01 Receita de serviços,CC-CTB,2026-09-15
+EDU01,2026-09-Aca-042,Acadêmico,2026-09-Acadêmico,2026-09,Maringá,Reconhecimento de mensalidade,49900,4.1.01 Receita de serviços,CC-MGA,2026-09-15
+EDU01,2026-09-Aca-043,Acadêmico,2026-09-Acadêmico,2026-09,Londrina,Reconhecimento de mensalidade,64900,4.1.01 Receita de serviços,CC-LDA,2026-09-15
+EDU01,2026-09-Aca-044,Acadêmico,2026-09-Acadêmico,2026-09,Curitiba,Reconhecimento de mensalidade,64900,4.1.01 Receita de serviços,CC-CTB,2026-09-15
+EDU01,2026-09-Aca-045,Acadêmico,2026-09-Acadêmico,2026-09,Maringá,Reconhecimento de mensalidade,49900,4.1.01 Receita de serviços,CC-MGA,2026-09-15
+EDU01,2026-09-Aca-046,Acadêmico,2026-09-Acadêmico,2026-09,Londrina,Reconhecimento de mensalidade,64900,4.1.01 Receita de serviços,CC-LDA,2026-09-15
+EDU01,2026-09-Aca-047,Acadêmico,2026-09-Acadêmico,2026-09,Curitiba,Reconhecimento de mensalidade,89900,4.1.01 Receita de serviços,CC-CTB,2026-09-15
+EDU01,2026-09-Aca-048,Acadêmico,2026-09-Acadêmico,2026-09,Maringá,Reconhecimento de mensalidade,89900,4.1.01 Receita de serviços,CC-MGA,2026-09-15
+EDU01,2026-09-Aca-049,Acadêmico,2026-09-Acadêmico,2026-09,Londrina,Reconhecimento de mensalidade,64900,4.1.01 Receita de serviços,CC-LDA,2026-09-15
+EDU01,2026-09-Aca-050,Acadêmico,2026-09-Acadêmico,2026-09,Curitiba,Reconhecimento de mensalidade,89900,4.1.01 Receita de serviços,CC-CTB,2026-09-15
+EDU01,2026-09-Aca-051,Acadêmico,2026-09-Acadêmico,2026-09,Maringá,Reconhecimento de mensalidade,89900,4.1.01 Receita de serviços,CC-MGA,2026-09-15
+EDU01,2026-09-Aca-052,Acadêmico,2026-09-Acadêmico,2026-09,Londrina,Reconhecimento de mensalidade,89900,4.1.01 Receita de serviços,CC-LDA,2026-09-15
+EDU01,2026-09-Aca-053,Acadêmico,2026-09-Acadêmico,2026-09,Curitiba,Reconhecimento de mensalidade,49900,4.1.01 Receita de serviços,CC-CTB,2026-09-15
+EDU01,2026-09-Aca-054,Acadêmico,2026-09-Acadêmico,2026-09,Maringá,Reconhecimento de mensalidade,89900,4.1.01 Receita de serviços,CC-MGA,2026-09-15
+EDU01,2026-09-Aca-055,Acadêmico,2026-09-Acadêmico,2026-09,Londrina,Reconhecimento de mensalidade,89900,4.1.01 Receita de serviços,CC-LDA,2026-09-15
+EDU01,2026-09-Aca-056,Acadêmico,2026-09-Acadêmico,2026-09,Curitiba,Reconhecimento de mensalidade,64900,4.1.01 Receita de serviços,CC-CTB,2026-09-15
+EDU01,2026-09-Aca-057,Acadêmico,2026-09-Acadêmico,2026-09,Maringá,Reconhecimento de mensalidade,89900,4.1.01 Receita de serviços,CC-MGA,2026-09-15
+EDU01,2026-09-Aca-058,Acadêmico,2026-09-Acadêmico,2026-09,Londrina,Reconhecimento de mensalidade,49900,4.1.01 Receita de serviços,CC-LDA,2026-09-15
+EDU01,2026-09-Aca-059,Acadêmico,2026-09-Acadêmico,2026-09,Curitiba,Reconhecimento de mensalidade,49900,4.1.01 Receita de serviços,CC-CTB,2026-09-15
+EDU01,2026-09-Aca-060,Acadêmico,2026-09-Acadêmico,2026-09,Maringá,Reconhecimento de mensalidade,64900,4.1.01 Receita de serviços,CC-MGA,2026-09-15
+EDU01,2026-09-Fin-001,Financeiro,2026-09-Financeiro,2026-09,Londrina,Recebimento de cliente,49900,1.1.01 Bancos,CC-LDA,2026-09-15
+EDU01,2026-09-Fin-002,Financeiro,2026-09-Financeiro,2026-09,Curitiba,Recebimento de cliente,49900,1.1.01 Bancos,CC-CTB,2026-09-15
+EDU01,2026-09-Fin-003,Financeiro,2026-09-Financeiro,2026-09,Maringá,Recebimento de cliente,89900,1.1.01 Bancos,CC-MGA,2026-09-15
+EDU01,2026-09-Fin-004,Financeiro,2026-09-Financeiro,2026-09,Londrina,Recebimento de cliente,89900,1.1.01 Bancos,CC-LDA,2026-09-15
+EDU01,2026-09-Fin-005,Financeiro,2026-09-Financeiro,2026-09,Curitiba,Recebimento de cliente,49900,1.1.01 Bancos,CC-CTB,2026-09-15
+EDU01,2026-09-Fin-006,Financeiro,2026-09-Financeiro,2026-09,Maringá,Recebimento de cliente,64900,1.1.01 Bancos,CC-MGA,2026-09-15
+EDU01,2026-09-Fin-007,Financeiro,2026-09-Financeiro,2026-09,Londrina,Recebimento de cliente,64900,1.1.01 Bancos,CC-LDA,2026-09-15
+EDU01,2026-09-Fin-008,Financeiro,2026-09-Financeiro,2026-09,Curitiba,Recebimento de cliente,89900,1.1.01 Bancos,CC-CTB,2026-09-15
+EDU01,2026-09-Fin-009,Financeiro,2026-09-Financeiro,2026-09,Maringá,Recebimento de cliente,49900,1.1.01 Bancos,CC-MGA,2026-09-15
+EDU01,2026-09-Fin-010,Financeiro,2026-09-Financeiro,2026-09,Londrina,Recebimento de cliente,89900,1.1.01 Bancos,CC-LDA,2026-09-15
+EDU01,2026-09-Fin-011,Financeiro,2026-09-Financeiro,2026-09,Curitiba,Recebimento de cliente,64900,1.1.01 Bancos,CC-CTB,2026-09-15
+EDU01,2026-09-Fin-012,Financeiro,2026-09-Financeiro,2026-09,Maringá,Recebimento de cliente,49900,1.1.01 Bancos,CC-MGA,2026-09-15
+EDU01,2026-09-Fin-013,Financeiro,2026-09-Financeiro,2026-09,Londrina,Recebimento de cliente,89900,1.1.01 Bancos,CC-LDA,2026-09-15
+EDU01,2026-09-Fin-014,Financeiro,2026-09-Financeiro,2026-09,Curitiba,Recebimento de cliente,89900,1.1.01 Bancos,CC-CTB,2026-09-15
+EDU01,2026-09-Fin-015,Financeiro,2026-09-Financeiro,2026-09,Maringá,Recebimento de cliente,64900,1.1.01 Bancos,CC-MGA,2026-09-15
+EDU01,2026-09-Fin-016,Financeiro,2026-09-Financeiro,2026-09,Londrina,Recebimento de cliente,89900,1.1.01 Bancos,CC-LDA,2026-09-15
+EDU01,2026-09-Fin-017,Financeiro,2026-09-Financeiro,2026-09,Curitiba,Recebimento de cliente,64900,1.1.01 Bancos,CC-CTB,2026-09-15
+EDU01,2026-09-Fin-018,Financeiro,2026-09-Financeiro,2026-09,Maringá,Recebimento de cliente,64900,1.1.01 Bancos,CC-MGA,2026-09-15
+EDU01,2026-09-Fin-019,Financeiro,2026-09-Financeiro,2026-09,Londrina,Recebimento de cliente,49900,1.1.01 Bancos,CC-LDA,2026-09-15
+EDU01,2026-09-Fin-020,Financeiro,2026-09-Financeiro,2026-09,Curitiba,Recebimento de cliente,49900,1.1.01 Bancos,CC-CTB,2026-09-15
+EDU01,2026-09-Fin-021,Financeiro,2026-09-Financeiro,2026-09,Maringá,Recebimento de cliente,89900,1.1.01 Bancos,CC-MGA,2026-09-15
+EDU01,2026-09-Fin-022,Financeiro,2026-09-Financeiro,2026-09,Londrina,Recebimento de cliente,64900,1.1.01 Bancos,CC-LDA,2026-09-15
+EDU01,2026-09-Fin-023,Financeiro,2026-09-Financeiro,2026-09,Curitiba,Recebimento de cliente,64900,1.1.01 Bancos,CC-CTB,2026-09-15
+EDU01,2026-09-Fin-024,Financeiro,2026-09-Financeiro,2026-09,Maringá,Recebimento de cliente,49900,1.1.01 Bancos,CC-MGA,2026-09-15
+EDU01,2026-09-Fin-025,Financeiro,2026-09-Financeiro,2026-09,Londrina,Recebimento de cliente,49900,1.1.01 Bancos,CC-LDA,2026-09-15
+EDU01,2026-09-Fin-026,Financeiro,2026-09-Financeiro,2026-09,Curitiba,Recebimento de cliente,64900,1.1.01 Bancos,CC-CTB,2026-09-15
+EDU01,2026-09-Fin-027,Financeiro,2026-09-Financeiro,2026-09,Maringá,Recebimento de cliente,49900,1.1.01 Bancos,CC-MGA,2026-09-15
+EDU01,2026-09-Fin-028,Financeiro,2026-09-Financeiro,2026-09,Londrina,Recebimento de cliente,89900,1.1.01 Bancos,CC-LDA,2026-09-15
+EDU01,2026-09-Fin-029,Financeiro,2026-09-Financeiro,2026-09,Curitiba,Recebimento de cliente,64900,1.1.01 Bancos,CC-CTB,2026-09-15
+EDU01,2026-09-Fin-030,Financeiro,2026-09-Financeiro,2026-09,Maringá,Recebimento de cliente,49900,1.1.01 Bancos,CC-MGA,2026-09-15
+EDU01,2026-09-Fin-031,Financeiro,2026-09-Financeiro,2026-09,Londrina,Recebimento de cliente,89900,1.1.01 Bancos,CC-LDA,2026-09-15
+EDU01,2026-09-Fin-032,Financeiro,2026-09-Financeiro,2026-09,Curitiba,Recebimento de cliente,64900,1.1.01 Bancos,CC-CTB,2026-09-15
+EDU01,2026-09-Fin-033,Financeiro,2026-09-Financeiro,2026-09,Maringá,Recebimento de cliente,89900,1.1.01 Bancos,CC-MGA,2026-09-15
+EDU01,2026-09-Fin-034,Financeiro,2026-09-Financeiro,2026-09,Londrina,Recebimento de cliente,89900,1.1.01 Bancos,CC-LDA,2026-09-15
+EDU01,2026-09-Fin-035,Financeiro,2026-09-Financeiro,2026-09,Curitiba,Recebimento de cliente,64900,1.1.01 Bancos,CC-CTB,2026-09-15
+EDU01,2026-09-Fin-036,Financeiro,2026-09-Financeiro,2026-09,Maringá,Recebimento de cliente,89900,1.1.01 Bancos,CC-MGA,2026-09-15
+EDU01,2026-09-Fin-037,Financeiro,2026-09-Financeiro,2026-09,Londrina,Recebimento de cliente,49900,1.1.01 Bancos,CC-LDA,2026-09-15
+EDU01,2026-09-Fin-038,Financeiro,2026-09-Financeiro,2026-09,Curitiba,Recebimento de cliente,49900,1.1.01 Bancos,CC-CTB,2026-09-15
+EDU01,2026-09-Fin-039,Financeiro,2026-09-Financeiro,2026-09,Maringá,Recebimento de cliente,49900,1.1.01 Bancos,CC-MGA,2026-09-15
+EDU01,2026-09-Fin-040,Financeiro,2026-09-Financeiro,2026-09,Londrina,Recebimento de cliente,89900,1.1.01 Bancos,CC-LDA,2026-09-15
+EDU01,2026-09-Fin-041,Financeiro,2026-09-Financeiro,2026-09,Curitiba,Recebimento de cliente,49900,1.1.01 Bancos,CC-CTB,2026-09-15
+EDU01,2026-09-Fin-042,Financeiro,2026-09-Financeiro,2026-09,Maringá,Recebimento de cliente,89900,1.1.01 Bancos,CC-MGA,2026-09-15
+EDU01,2026-09-Fin-043,Financeiro,2026-09-Financeiro,2026-09,Londrina,Recebimento de cliente,49900,1.1.01 Bancos,CC-LDA,2026-09-15
+EDU01,2026-09-Fin-044,Financeiro,2026-09-Financeiro,2026-09,Curitiba,Recebimento de cliente,64900,1.1.01 Bancos,CC-CTB,2026-09-15
+EDU01,2026-09-Fin-045,Financeiro,2026-09-Financeiro,2026-09,Maringá,Recebimento de cliente,89900,1.1.01 Bancos,CC-MGA,2026-09-15
+EDU01,2026-09-Fin-046,Financeiro,2026-09-Financeiro,2026-09,Londrina,Recebimento de cliente,89900,1.1.01 Bancos,CC-LDA,2026-09-15
+EDU01,2026-09-Fin-047,Financeiro,2026-09-Financeiro,2026-09,Curitiba,Recebimento de cliente,49900,1.1.01 Bancos,CC-CTB,2026-09-15
+EDU01,2026-09-Fin-048,Financeiro,2026-09-Financeiro,2026-09,Maringá,Recebimento de cliente,64900,1.1.01 Bancos,CC-MGA,2026-09-15
+EDU01,2026-09-Fin-049,Financeiro,2026-09-Financeiro,2026-09,Londrina,Recebimento de cliente,49900,1.1.01 Bancos,CC-LDA,2026-09-15
+EDU01,2026-09-Fin-050,Financeiro,2026-09-Financeiro,2026-09,Curitiba,Recebimento de cliente,49900,1.1.01 Bancos,CC-CTB,2026-09-15
+EDU01,2026-09-Fin-051,Financeiro,2026-09-Financeiro,2026-09,Maringá,Recebimento de cliente,64900,1.1.01 Bancos,CC-MGA,2026-09-15
+EDU01,2026-09-Fin-052,Financeiro,2026-09-Financeiro,2026-09,Londrina,Recebimento de cliente,64900,1.1.01 Bancos,CC-LDA,2026-09-15
+EDU01,2026-09-Fin-053,Financeiro,2026-09-Financeiro,2026-09,Curitiba,Recebimento de cliente,49900,1.1.01 Bancos,CC-CTB,2026-09-15
+EDU01,2026-09-Fin-054,Financeiro,2026-09-Financeiro,2026-09,Maringá,Recebimento de cliente,64900,1.1.01 Bancos,CC-MGA,2026-09-15
+EDU01,2026-09-Fin-055,Financeiro,2026-09-Financeiro,2026-09,Londrina,Recebimento de cliente,49900,1.1.01 Bancos,CC-LDA,2026-09-15
+EDU01,2026-09-Fin-056,Financeiro,2026-09-Financeiro,2026-09,Curitiba,Recebimento de cliente,89900,1.1.01 Bancos,CC-CTB,2026-09-15
+EDU01,2026-09-Fin-057,Financeiro,2026-09-Financeiro,2026-09,Maringá,Recebimento de cliente,49900,1.1.01 Bancos,CC-MGA,2026-09-15
+EDU01,2026-09-Fin-058,Financeiro,2026-09-Financeiro,2026-09,Londrina,Recebimento de cliente,89900,1.1.01 Bancos,CC-LDA,2026-09-15
+EDU01,2026-09-Fin-059,Financeiro,2026-09-Financeiro,2026-09,Curitiba,Recebimento de cliente,49900,1.1.01 Bancos,CC-CTB,2026-09-15
+EDU01,2026-09-Fin-060,Financeiro,2026-09-Financeiro,2026-09,Maringá,Recebimento de cliente,64900,1.1.01 Bancos,CC-MGA,2026-09-15
+EDU01,2026-09-Fol-001,Folha,2026-09-Folha,2026-09,Londrina,Apropriação de salários,620000,5.1.01 Salários,CC-LDA,2026-09-15
+EDU01,2026-09-Fol-002,Folha,2026-09-Folha,2026-09,Curitiba,Apropriação de salários,480000,5.1.01 Salários,CC-CTB,2026-09-15
+EDU01,2026-09-Fol-003,Folha,2026-09-Folha,2026-09,Maringá,Apropriação de salários,620000,5.1.01 Salários,CC-MGA,2026-09-15
+EDU01,2026-09-Fol-004,Folha,2026-09-Folha,2026-09,Londrina,Apropriação de salários,620000,5.1.01 Salários,CC-LDA,2026-09-15
+EDU01,2026-09-Fol-005,Folha,2026-09-Folha,2026-09,Curitiba,Apropriação de salários,350000,5.1.01 Salários,CC-CTB,2026-09-15
+EDU01,2026-09-Fol-006,Folha,2026-09-Folha,2026-09,Maringá,Apropriação de salários,350000,5.1.01 Salários,CC-MGA,2026-09-15
+EDU01,2026-09-Fol-007,Folha,2026-09-Folha,2026-09,Londrina,Apropriação de salários,350000,5.1.01 Salários,CC-LDA,2026-09-15
+EDU01,2026-09-Fol-008,Folha,2026-09-Folha,2026-09,Curitiba,Apropriação de salários,350000,5.1.01 Salários,CC-CTB,2026-09-15
+EDU01,2026-09-Fol-009,Folha,2026-09-Folha,2026-09,Maringá,Apropriação de salários,480000,5.1.01 Salários,CC-MGA,2026-09-15
+EDU01,2026-09-Fol-010,Folha,2026-09-Folha,2026-09,Londrina,Apropriação de salários,350000,5.1.01 Salários,CC-LDA,2026-09-15
+EDU01,2026-09-Fol-011,Folha,2026-09-Folha,2026-09,Curitiba,Apropriação de salários,350000,5.1.01 Salários,CC-CTB,2026-09-15
+EDU01,2026-09-Fol-012,Folha,2026-09-Folha,2026-09,Maringá,Apropriação de salários,620000,5.1.01 Salários,CC-MGA,2026-09-15
+EDU01,2026-09-Fol-013,Folha,2026-09-Folha,2026-09,Londrina,Apropriação de salários,480000,5.1.01 Salários,CC-LDA,2026-09-15
+EDU01,2026-09-Fol-014,Folha,2026-09-Folha,2026-09,Curitiba,Apropriação de salários,480000,5.1.01 Salários,CC-CTB,2026-09-15
+EDU01,2026-09-Fol-015,Folha,2026-09-Folha,2026-09,Maringá,Apropriação de salários,620000,5.1.01 Salários,CC-MGA,2026-09-15
+EDU01,2026-09-Fol-016,Folha,2026-09-Folha,2026-09,Londrina,Apropriação de salários,620000,5.1.01 Salários,CC-LDA,2026-09-15
+EDU01,2026-09-Fol-017,Folha,2026-09-Folha,2026-09,Curitiba,Apropriação de salários,350000,5.1.01 Salários,CC-CTB,2026-09-15
+EDU01,2026-09-Fol-018,Folha,2026-09-Folha,2026-09,Maringá,Apropriação de salários,480000,5.1.01 Salários,CC-MGA,2026-09-15
+EDU01,2026-09-Fol-019,Folha,2026-09-Folha,2026-09,Londrina,Apropriação de salários,350000,5.1.01 Salários,CC-LDA,2026-09-15
+EDU01,2026-09-Fol-020,Folha,2026-09-Folha,2026-09,Curitiba,Apropriação de salários,620000,5.1.01 Salários,CC-CTB,2026-09-15
+EDU01,2026-09-Fol-021,Folha,2026-09-Folha,2026-09,Maringá,Apropriação de salários,350000,5.1.01 Salários,CC-MGA,2026-09-15
+EDU01,2026-09-Fol-022,Folha,2026-09-Folha,2026-09,Londrina,Apropriação de salários,480000,5.1.01 Salários,CC-LDA,2026-09-15
+EDU01,2026-09-Fol-023,Folha,2026-09-Folha,2026-09,Curitiba,Apropriação de salários,350000,5.1.01 Salários,CC-CTB,2026-09-15
+EDU01,2026-09-Fol-024,Folha,2026-09-Folha,2026-09,Maringá,Apropriação de salários,480000,5.1.01 Salários,CC-MGA,2026-09-15
+EDU01,2026-09-Fol-025,Folha,2026-09-Folha,2026-09,Londrina,Apropriação de salários,350000,5.1.01 Salários,CC-LDA,2026-09-15
+EDU01,2026-09-Fol-026,Folha,2026-09-Folha,2026-09,Curitiba,Apropriação de salários,350000,5.1.01 Salários,CC-CTB,2026-09-15
+EDU01,2026-09-Fol-027,Folha,2026-09-Folha,2026-09,Maringá,Apropriação de salários,480000,5.1.01 Salários,CC-MGA,2026-09-15
+EDU01,2026-09-Fol-028,Folha,2026-09-Folha,2026-09,Londrina,Apropriação de salários,480000,5.1.01 Salários,CC-LDA,2026-09-15
+EDU01,2026-09-Fol-029,Folha,2026-09-Folha,2026-09,Curitiba,Apropriação de salários,480000,5.1.01 Salários,CC-CTB,2026-09-15
+EDU01,2026-09-Fol-030,Folha,2026-09-Folha,2026-09,Maringá,Apropriação de salários,350000,5.1.01 Salários,CC-MGA,2026-09-15
+EDU01,2026-09-Fol-031,Folha,2026-09-Folha,2026-09,Londrina,Apropriação de salários,350000,5.1.01 Salários,CC-LDA,2026-09-15
+EDU01,2026-09-Fol-032,Folha,2026-09-Folha,2026-09,Curitiba,Apropriação de salários,350000,5.1.01 Salários,CC-CTB,2026-09-15
+EDU01,2026-09-Fol-033,Folha,2026-09-Folha,2026-09,Maringá,Apropriação de salários,620000,5.1.01 Salários,CC-MGA,2026-09-15
+EDU01,2026-09-Fol-034,Folha,2026-09-Folha,2026-09,Londrina,Apropriação de salários,350000,5.1.01 Salários,CC-LDA,2026-09-15
+EDU01,2026-09-Fol-035,Folha,2026-09-Folha,2026-09,Curitiba,Apropriação de salários,480000,5.1.01 Salários,CC-CTB,2026-09-15
+EDU01,2026-09-Fol-036,Folha,2026-09-Folha,2026-09,Maringá,Apropriação de salários,480000,5.1.01 Salários,CC-MGA,2026-09-15
+EDU01,2026-09-Fol-037,Folha,2026-09-Folha,2026-09,Londrina,Apropriação de salários,480000,5.1.01 Salários,CC-LDA,2026-09-15
+EDU01,2026-09-Fol-038,Folha,2026-09-Folha,2026-09,Curitiba,Apropriação de salários,350000,5.1.01 Salários,CC-CTB,2026-09-15
+EDU01,2026-09-Fol-039,Folha,2026-09-Folha,2026-09,Maringá,Apropriação de salários,480000,5.1.01 Salários,CC-MGA,2026-09-15
+EDU01,2026-09-Fol-040,Folha,2026-09-Folha,2026-09,Londrina,Apropriação de salários,480000,5.1.01 Salários,CC-LDA,2026-09-15
+EDU01,2026-09-Fol-041,Folha,2026-09-Folha,2026-09,Curitiba,Apropriação de salários,620000,5.1.01 Salários,CC-CTB,2026-09-15
+EDU01,2026-09-Fol-042,Folha,2026-09-Folha,2026-09,Maringá,Apropriação de salários,620000,5.1.01 Salários,CC-MGA,2026-09-15
+EDU01,2026-09-Fol-043,Folha,2026-09-Folha,2026-09,Londrina,Apropriação de salários,480000,5.1.01 Salários,CC-LDA,2026-09-15
+EDU01,2026-09-Fol-044,Folha,2026-09-Folha,2026-09,Curitiba,Apropriação de salários,620000,5.1.01 Salários,CC-CTB,2026-09-15
+EDU01,2026-09-Fol-045,Folha,2026-09-Folha,2026-09,Maringá,Apropriação de salários,620000,5.1.01 Salários,CC-MGA,2026-09-15
+EDU01,2026-09-Fol-046,Folha,2026-09-Folha,2026-09,Londrina,Apropriação de salários,480000,5.1.01 Salários,CC-LDA,2026-09-15
+EDU01,2026-09-Fol-047,Folha,2026-09-Folha,2026-09,Curitiba,Apropriação de salários,350000,5.1.01 Salários,CC-CTB,2026-09-15
+EDU01,2026-09-Fol-048,Folha,2026-09-Folha,2026-09,Maringá,Apropriação de salários,350000,5.1.01 Salários,CC-MGA,2026-09-15
+EDU01,2026-09-Fol-049,Folha,2026-09-Folha,2026-09,Londrina,Apropriação de salários,480000,5.1.01 Salários,CC-LDA,2026-09-15
+EDU01,2026-09-Fol-050,Folha,2026-09-Folha,2026-09,Curitiba,Apropriação de salários,350000,5.1.01 Salários,CC-CTB,2026-09-15
+EDU01,2026-09-Fol-051,Folha,2026-09-Folha,2026-09,Maringá,Apropriação de salários,620000,5.1.01 Salários,CC-MGA,2026-09-15
+EDU01,2026-09-Fol-052,Folha,2026-09-Folha,2026-09,Londrina,Apropriação de salários,480000,5.1.01 Salários,CC-LDA,2026-09-15
+EDU01,2026-09-Fol-053,Folha,2026-09-Folha,2026-09,Curitiba,Apropriação de salários,350000,5.1.01 Salários,CC-CTB,2026-09-15
+EDU01,2026-09-Fol-054,Folha,2026-09-Folha,2026-09,Maringá,Apropriação de salários,350000,5.1.01 Salários,CC-MGA,2026-09-15
+EDU01,2026-09-Fol-055,Folha,2026-09-Folha,2026-09,Londrina,Apropriação de salários,620000,5.1.01 Salários,CC-LDA,2026-09-15
+EDU01,2026-09-Fol-056,Folha,2026-09-Folha,2026-09,Curitiba,Apropriação de salários,480000,5.1.01 Salários,CC-CTB,2026-09-15
+EDU01,2026-09-Fol-057,Folha,2026-09-Folha,2026-09,Maringá,Apropriação de salários,480000,5.1.01 Salários,CC-MGA,2026-09-15
+EDU01,2026-09-Fol-058,Folha,2026-09-Folha,2026-09,Londrina,Apropriação de salários,620000,5.1.01 Salários,CC-LDA,2026-09-15
+EDU01,2026-09-Fol-059,Folha,2026-09-Folha,2026-09,Curitiba,Apropriação de salários,480000,5.1.01 Salários,CC-CTB,2026-09-15
+EDU01,2026-09-Fol-060,Folha,2026-09-Folha,2026-09,Maringá,Apropriação de salários,480000,5.1.01 Salários,CC-MGA,2026-09-15
